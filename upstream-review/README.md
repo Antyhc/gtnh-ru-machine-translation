@@ -1,6 +1,6 @@
-# Russian GTNH translation proposals — machine translation
+# Russian GTNH translation proposals — generated with GPT-6 Astra
 
-These are machine-generated additions and corrections for maintainer review. They were prepared for GTNH 2.9.0-beta-3. Existing Russian terminology and unchanged community translations were reused in the local patch; those reused translations are excluded from this contribution delta.
+These additions and corrections were generated with **GPT-6 Astra** for maintainer review. They are machine-generated translations prepared for GTNH 2.9.0-beta-3; the model attribution follows the explicit publication instruction. Existing Russian terminology and unchanged community translations were reused in the local patch; those reused translations are excluded from this contribution delta.
 
 The comparison is pinned to [GTNH-Translations commit 9b46c62598f3](https://github.com/GTNewHorizons/GTNH-Translations/tree/9b46c62598f38322dd0e69ed39c6e46cbc76582b). It compares the exported Russian translations and English sources in that snapshot, not unpublished live ParaTranz edits.
 
@@ -20,7 +20,7 @@ The local package passed checks for syntax, localization keys, placeholders, for
 
 The official [contribution workflow](https://github.com/GTNewHorizons/GTNH-Translations#for-translators) routes translations through [ParaTranz project 9929](https://paratranz.cn/projects/9929). The project overview displays CC BY-NC-SA 4.0; the GitHub repository carries its own GPL-3.0 license file. Existing source rights and notices are retained; this bundle does not replace them with a GPL-only translation claim. The project announcement asks applicants to join the GTNH Discord and contact the Russian translation team. No rule specifically accepting or rejecting machine translation was found in the accessible overview and sole announcement; that is not a claim of permission or approval.
 
-No account identity, local absolute path, save, log, or user attribution is included. New text is explicitly marked machine-generated. Existing authors mentioned inside game text remain part of that text.
+No account identity, local absolute path, save, log, or user attribution is included. New text is explicitly marked as generated with GPT-6 Astra. Existing authors mentioned inside game text remain part of that text.
 
 Public primary references:
 

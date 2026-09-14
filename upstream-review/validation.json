@@ -4,6 +4,8 @@
   "exact_source_equality_passed": true,
   "private_workspace_identifier_scan_passed": true,
   "all_proposals_explicitly_machine_generated": true,
+  "generator_model": "GPT-6 Astra",
+  "generator_model_source": "Explicit publication instruction",
   "external_write_performed": false,
   "errors": []
 }

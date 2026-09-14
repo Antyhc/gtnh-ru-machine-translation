@@ -7,6 +7,7 @@
     "before": null,
     "ru": "# Звуковой кабель\n\n![Правильное распространение популярных ритмов](block:computronics:computronics.audioCable)\n\nЗвуковой кабель соединяет устройства, отправляющие звуковые сигналы, с устройствами, которые их принимают и обрабатывают. Например, можно подключить [стример](tape_drive.md) к одному или нескольким [громкоговорителям](speaker.md).\n\nКак и многие другие устройства, звуковые кабели можно окрашивать красителями или различными приспособлениями для окрашивания, например кистями. Окрашенный кабель не соединяется с соседними кабелями и звуковыми устройствами другого цвета. С неокрашенными устройствами соединение устанавливается всегда, а неокрашенные кабели соединяются с любыми устройствами.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -19,6 +20,7 @@
     "before": null,
     "ru": "# Камера\n\n![Фотографии не делает.](block:computronics:computronics.camera)\n\nБлок камеры позволяет компьютеру выполнять трассировку лучей. Функция `'distance()` вычисляет расстояние до ближайшего блока на заданном луче, направление которого определяется углами `x` и `y`; если угол не указан, его значение равно 0. Оба угла задают конус перед камерой: `x` — угол в горизонтальной плоскости, параллельной земле, а `y` — угол в вертикальной плоскости, перпендикулярной земле. Если на пути луча нет блока, возвращается значение `-1`.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -31,6 +33,7 @@
     "before": null,
     "ru": "# Чатбокс\n\n![Поговори со мной!](block:computronics:computronics.chatBox)\n\nЧатбокс позволяет компьютеру читать и отправлять сообщения в чате Minecraft. Для чтения и отправки сообщений можно задать радиус действия (по умолчанию: 40 блоков). Программы на компьютере могут реагировать на сообщения, читая их из события `chat_message`.\n\nПри получении сообщения чатбокс выдаёт импульс красного камня длительностью 4 такта, что позволяет использовать его с различными схемами управления.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -43,6 +46,7 @@
     "before": null,
     "ru": "# Блок шифрования\n\n![Загадочно.](block:computronics:computronics.cipher)\n\nБлок шифрования служит для шифрования и расшифровки сообщений. В него можно поместить предметы, чтобы создать ключ шифрования на основе данных Itemstack. Затем сообщения можно расшифровать блоком с точно таким же ключом. Например, зашифрованные сообщения можно отправлять другим компьютерам в сети; для их расшифровки принимающему компьютеру понадобится блок шифрования с тем же сочетанием предметов. Через API компонента блок можно заблокировать, закрыв доступ к его интерфейсу и скрыв ключ шифрования.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -55,6 +59,7 @@
     "before": null,
     "ru": "# Продвинутый блок шифрования\n\n![Почти безопасно.](block:computronics:computronics.cipher_advanced)\n\nПродвинутый блок шифрования использует RSA и создаёт пару из открытого и закрытого ключей. Пару ключей можно получить из двух простых чисел или сгенерировать случайным образом. После завершения генерации, которая занимает несколько секунд, возвращаются оба ключа.\nОткрытый ключ служит для шифрования сообщений, а закрытый — для расшифровки. Расшифровать сообщения могут только устройства, у которых есть закрытый ключ.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -67,6 +72,7 @@
     "before": null,
     "ru": "# Цветная лампа\n\n![Какая красота.](block:computronics:computronics.colorfulLamp)\n\nЦветная лампа — особый светящийся блок, поддерживающий до 32768 сочетаний цветов. Цвет задаётся 15-битным двоичным числом. Последние 5 цифр определяют оттенок синего, средние 5 — зелёного, а первые 5 — красного. Например, двоичная запись `000000000011111`, переведённая в десятичное число, задаёт синий цвет. Лампу можно использовать как индикатор состояния: разные цвета будут соответствовать различным состояниям программы на компьютере.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -79,6 +85,7 @@
     "before": null,
     "ru": "# Руководство Computronics\n\nЗдесь перечислены все блоки Computronics, для которых есть документация. Если нужен предмет, откройте [указатель предметов](../item/index.md).\n\nПомните, что некоторые из них могут быть недоступны: это зависит от используемого набора рецептов и от того, включены ли они.\n\n# Блоки\n\n* [Камера](camera.md)\n* [Чатбокс](chatbox.md)\n* [Блок шифрования](cipher.md)\n* [Продвинутый блок шифрования](cipher_advanced.md)\n* [Цветная лампа](colorful_lamp.md)\n* [Железный нотный блок](iron_noteblock.md)\n* [Радар](radar.md)\n* [Речевой ящик](speech_box.md)\n* [Стример](tape_drive.md)\n* [Звуковой кабель](audio_cable.md)\n* [Громкоговоритель](speaker.md)\n\n# Блоки для других модов\n\nЭти блоки Computronics добавляет для взаимодействия с другими модами. В вашей сборке их может не быть.\n\n## Railcraft\n\n* [Цифровое локомотивное реле](railcraft/locomotive_relay.md)\n* [Цифровой детектор](railcraft/digital_detector.md)\n* [Цифровой контроллер сигнала](railcraft/digital_controller_box.md)\n* [Цифровой приёмник сигнала](railcraft/digital_receiver_box.md)\n* [Автомат для печати билетов](railcraft/ticket_machine.md)\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 22
@@ -91,6 +98,7 @@
     "before": null,
     "ru": "# Железный нотный блок\n\n![Лучше обычного нотного блока.](block:computronics:computronics.ironNoteBlock)\n\nЖелезный нотный блок воспроизводит различные ноты разными инструментами. Набор инструментов, например фортепиано или бас-барабан, соответствует нотному блоку Minecraft. Для каждого инструмента доступно 24 ноты; также можно указать необязательный параметр громкости от 0 до 1.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -103,6 +111,7 @@
     "before": null,
     "ru": "# Радар\n\n![Радиообнаружение и определение расстояния](block:computronics:computronics.radar)\n\nРадар работает подобно датчику движения Open Computers и обнаруживает сущности: игроков, мобов и выброшенные предметы. Встроенные функции API возвращают таблицу имён сущностей в указанном радиусе и расстояний до них.\n\nДля сканирования больших областей радару требуется определённое количество энергии (в Open Computers) либо возникает задержка между сканированиями (в ComputerCraft).\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -115,6 +124,7 @@
     "before": null,
     "ru": "# Цифровой контроллер сигнала\n\n![У меня всё под контролем, честно!](block:computronics:computronics.digitalControllerBox)\n\nЦифровой контроллер сигнала передаёт показания подключённым приёмникам. Кабель подключается к верхней или нижней стороне блока. Показания соответствуют документации по [сигнализации](http://railcraft.info/wiki/guide:signalling) Railcraft: зелёный, мигающий жёлтый, жёлтый, мигающий красный и красный.\n\nК блоку можно подключить до 32 разных приёмников. Для обращения к приёмнику используется имя, присвоенное ему сигнальной меткой.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -127,6 +137,7 @@
     "before": null,
     "ru": "# Цифровой детектор\n\n![Обнаруживает в цифровом виде.](block:computronics:computronics.detector)\n\nЦифровой детектор обнаруживает вагонетку, проезжающую рядом с блоком, и создаёт событие Lua `minecart`, которое может принять компьютер. Детектор нужно подключить к компьютеру с правильной стороны.\n\nСобытие `minecart` имеет следующий вид. Если синтаксис сигналов вам незнаком, обратитесь к [этому руководству](http://ocdoc.cil.li/component:signals).\n\n`minecart(detectorAddress:string, minecartType:string, minecartName:string [, primaryColor:number, secondaryColor:number, destination:string, ownerName:string])`\n\nЕсли вагонетке не присвоено имя, `minecartName` может быть пустой строкой. Для локомотива также передаются его цвета, пункт назначения (либо пустая строка, если он не задан) и имя владельца (либо пустая строка, если владельца нет).\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 5
@@ -139,6 +150,7 @@
     "before": null,
     "ru": "# Цифровой приёмник сигнала\n\n![Принимает в цифровом виде.](block:computronics:computronics.digitalReceiverBox)\n\nЦифровой приёмник сигнала обнаруживает изменения показаний. Кабель подключается к верхней или нижней стороне блока. Показания соответствуют документации по [сигнализации](http://railcraft.info/wiki/guide:signalling) Railcraft: зелёный, мигающий жёлтый, жёлтый, мигающий красный и красный.\n\nК блоку можно подключить до 32 разных контроллеров. Для обращения к контроллеру используется имя, присвоенное ему сигнальной меткой.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -151,6 +163,7 @@
     "before": null,
     "ru": "# Цифровое локомотивное реле\n\n![Добро пожаловать в будущее.](block:computronics:computronics.locomotiveRelay)\n\nЦифровое локомотивное реле позволяет компьютеру взаимодействовать с электрическим локомотивом Railcraft. Для сопряжения нужен [цифровой датчик реле](../../item/railcraft/relay_sensor.md): нажмите им ПКМ с зажатой клавишей приседания, чтобы привязать [датчик](../../item/railcraft/relay_sensor.md) к реле, затем нажмите ЛКМ с зажатой клавишей приседания по электровозу, чтобы установить [датчик](../../item/railcraft/relay_sensor.md). После этого электровозом можно управлять через API компонента `locomotive_relay`.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -163,6 +176,7 @@
     "before": null,
     "ru": "# Автомат для печати билетов\n\n![Бз-з-з. Бз-з-з-з. Бз-з-з-з.](block:computronics:computronics.ticketMachine)\n\nАвтомат печатает билеты по шаблону золотых билетов. Золотые билеты настраиваются через API компонента `ticket_machine` или через интерфейс в режиме обслуживания: нажмите ПКМ пустой рукой по автомату с зажатой клавишей приседания. После настройки билеты можно печатать в интерфейсе, выбрав золотой билет и нажав кнопку печати, либо через API компонента, указав нужный слот золотого билета. Печать требует энергии и обычной бумаги Minecraft. Бумагу можно поместить в соответствующий слот в режиме обслуживания или средствами автоматизации.\n\nПри необходимости через API компонента можно запретить ручную печать в интерфейсе; тогда печатать билеты смогут только функции API. Доступ к режиму обслуживания также можно ограничить владельцем устройства и операторами сервера.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -175,6 +189,7 @@
     "before": null,
     "ru": "# Громкоговоритель\n\n![Одобрено меломанами.](block:computronics:computronics.speaker)\n\nЭтот электроакустический преобразователь подключается к [звуковым кабелям](audio_cable.md). Он принимает передаваемые по кабелям звуковые сигналы и преобразует их в слышимый звук.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -187,6 +202,7 @@
     "before": null,
     "ru": "# Речевой ящик\n\n![Понадобилось всего два года.](block:computronics:computronics.speechBox)\n\nРечевой ящик умеет говорить! Он использует систему синтеза речи [MaryTTS](http://mary.dfki.de/), чтобы озвучивать любые сообщения. Передайте ему предложение или фразу, и после некоторой интенсивной обработки он её произнесёт. Правильная пунктуация обычно улучшает качество произношения.\n\nИз-за большого размера системы ящик по умолчанию ничего не делает: для работы MaryTTS нужно отдельно установить в каталог игрового экземпляра. Подробная инструкция по установке находится [на вики](http://wiki.vex.tty.sh/wiki:computronics:mary).\n\nЕсли к ящику подключён [звуковой кабель](audio_cable.md), во время работы он передаёт созданный звуковой сигнал по кабелю, а не воспроизводит его самостоятельно.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 5
@@ -199,6 +215,7 @@
     "before": null,
     "ru": "# Стример\n\n![Клейкую ленту не вставлять.](block:computronics:computronics.tapeReader)\n\nСтример — блок для записи и воспроизведения звуковых данных. В него вставляются [ленточные кассеты](../item/tape.md) длительностью от 2 до 128 минут. Стример не ограничен звуком: на [кассету](../item/tape.md) можно записывать и другие виды данных.\n\nЗвук записывается в формате DFPWM, позволяющем получать файлы небольшого размера. Преобразование MP3 и других распространённых форматов непросто, но WAV можно перевести в DFPWM программой [LionRay](http://wiki.vex.tty.sh/wiki:computronics:tape#lionray). Полученный звуковой файл затем записывается на кассету побайтно. Дополнительные сведения о DFPWM есть [на вики](http://wiki.vex.tty.sh/dfpwm).\n\nУ стримера есть функция `seek()`, позволяющая быстро перейти к заданной позиции на [ленточной кассете](../item/tape.md). Отрицательное значение, переданное в `seek()`, перематывает [кассету](../item/tape.md) назад.\n\nМожно создать дискету `tape` с одноимённой программой для удобного чтения, записи и воспроизведения кассет.\n\nЕсли к стримеру подключён [звуковой кабель](audio_cable.md), при воспроизведении он передаёт созданный звуковой сигнал по кабелю, а не воспроизводит его самостоятельно.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 7
@@ -211,6 +228,7 @@
     "before": null,
     "ru": "# Гудящая карта\n\n![Бип. Бип. Бип.](item:computronics:computronics.ocParts@5)\n\nЭта карта предоставляет функцию `beep()`, которая принимает таблицу пар «частота — длительность», до восьми записей одновременно. Карта воспроизводит сигнал каждой частоты в течение указанного времени. Когда воспроизведение одной частоты завершено, карте можно передать новую пару. Одновременно воспроизводить более восьми частот нельзя.\n\nПример кода:\n`  local card = component.beep`\n`  card.beep({[440]=4, [880]=2})`\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -223,6 +241,7 @@
     "before": null,
     "ru": "# Улучшение: стыковка\n\n![Верхняя часть.](item:computronics:computronics.dockingUpgrade)\n\nУлучшение стыковки позволяет дрону пристыковаться к трубе Buildcraft с [стыковочной дрон-станцией](drone_station.md). Его можно установить в дрона со слотом улучшений уровня 1 или выше.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -235,6 +254,7 @@
     "before": null,
     "ru": "# Стыковочная дрон-станция\n\n![Нижняя часть.](item:computronics:computronics.droneStation)\n\nСтыковочная дрон-станция устанавливается на трубу Buildcraft и позволяет дронам с [улучшением стыковки](docking_upgrade.md) пристыковываться к ней. Через неё можно передавать предметы в сеть труб Buildcraft и заряжать дрона от энергетической трубы.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -247,6 +267,7 @@
     "before": null,
     "ru": "# Улучшение: камера\n\n![Всё ещё не делает фотографии.](item:computronics:computronics.ocParts@0)\n\nУлучшение камеры устанавливается в роботов и дронов со слотом улучшений уровня 2 или выше и имеет те же возможности, что и блок [камеры](../block/camera.md). Дополнительно доступны функции `distanceUp()` и `distanceDown()`: они работают как камеры, направленные строго вверх и вниз соответственно. Это позволяет роботам и дронам, например, создавать карты высот. Обе функции принимают те же параметры `x` и `y`, задавая конус вверх или вниз подобно конусу перед обычной камерой.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -259,6 +280,7 @@
     "before": null,
     "ru": "# Улучшение: чат\n\n![Просто болтаю со своими роботами.](item:computronics:computronics.ocParts@1)\n\nУлучшение чата устанавливается в роботов и дронов со слотом улучшений уровня 2 или выше. Оно работает подобно [чатбоксу](../block/chatbox.md), обеспечивая взаимодействие с чатом Minecraft. Как и для [чатбокса](../block/chatbox.md), можно задать радиус приёма сообщений в пределах максимума, указанного в настройках.\n\nНапример, робот или дрон может ожидать определённые сообщения в чате и запускать по ним нужные программы.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -271,6 +293,7 @@
     "before": null,
     "ru": "# Разноцветное улучшение\n\n![Ещё красивее.](item:computronics:computronics.ocParts@7)\n\nЭто улучшение устанавливается только в роботов. Оно предоставляет компонент `colors`, позволяющий менять цвет корпуса робота. В сочетании с `robot.setLightColor` ваши роботы станут ещё красивее!\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -283,6 +306,7 @@
     "before": null,
     "ru": "# Руководство Computronics\n\nЗдесь перечислены все предметы Computronics, для которых есть документация. Если нужен блок, откройте [указатель блоков](../block/index.md).\n\nПомните, что некоторые из них могут быть недоступны в зависимости от используемого набора рецептов.\n\n# Предметы\n\n* [Ленточная кассета](tape.md)\n* [Портативный стример](portable_tape_drive.md)\n\n## Компоненты\n\n### Улучшения\n\n* [Улучшение: камера](camera_upgrade.md)\n* [Улучшение: чат](chat_upgrade.md)\n* [Улучшение: радар](radar_upgrade.md)\n* [Разноцветное улучшение](colorful_upgrade.md)\n* [Улучшение речи](speech_upgrade.md)\n\n### Карты\n\n* [Карта эффектов частиц](particle_card.md)\n* [Имитирующая карта](spoofing_card.md)\n* [Гудящая карта](beep_card.md)\n* [Шумящая карта](noise_card.md)\n* [Звуковая карта](sound_card.md)\n* [Карта самоуничтожения](self_destructing_card.md)\n\n### Устройства для стойки\n\n* [Световая доска](light_board.md)\n* [Плата переключателя](switch_board.md)\n* [Самоуничтожение сервера](server_self_destructor.md)\n* [Конденсатор стойки](rack_capacitor.md)\n\n### Прочее\n\n* [Магическая память](magical_memory.md)\n\n# Предметы для других модов\n\nЭти предметы Computronics добавляет для взаимодействия с другими модами. В вашей сборке их может не быть.\n\n## Buildcraft\n\n* [Стыковочная дрон-станция](buildcraft/drone_station.md)\n* [Улучшение: стыковка](buildcraft/docking_upgrade.md)\n\n## Railcraft\n\n* [Цифровой датчик реле](railcraft/relay_sensor.md)\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 32
@@ -295,6 +319,7 @@
     "before": null,
     "ru": "# Световая доска\n\n![И сказал Notch: да будет свет.](item:computronics:computronics.ocParts@10)\n\nЭта плата устанавливается в серверные стойки. Она содержит четыре световых индикатора, которыми подключённые компьютеры управляют через компонент `light_board`.\n\nРасположение индикаторов можно изменить, применив к плате любой [гаечный ключ](/%LANGUAGE%/item/wrench.md). Учтите, что настройки цветов при этом сбрасываются.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -307,6 +332,7 @@
     "before": null,
     "ru": "# Магическая память\n\n![Мнемонические шедевры](item:computronics:computronics.ocSpecialParts@0)\n\nЭто магическое устройство — разновидность [памяти](/%LANGUAGE%/item/ram1.md), которая, похоже, хранит данные в байтах, собранных из окружающей среды, космического излучения, Scumm™ и ошибок на единицу. Это делает её практически безгранично мощной. К счастью, артефакт нельзя ни найти, ни изготовить: из-за сокращения бюджета его воздействие на вселенную ещё не проверяли, и полное разрушение не исключено. Впрочем, специалисты склонны считать, что вместо поглощения вселенной он просто предоставит компьютеру очень много доступной памяти.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -319,6 +345,7 @@
     "before": null,
     "ru": "# Шумящая карта\n\n![Буп. Бип. Бз-з-т.](item:computronics:computronics.ocParts@8)\n\nПодобно [гудящей карте](beep_card.md), шумящая карта предоставляет функцию `play()`. Кроме того, для каждого из восьми независимых каналов можно выбрать форму звуковой волны: прямоугольную, синусоидальную, треугольную или пилообразную.\n\nКарта также имеет небольшой внутренний буфер. Для каждого канала в нём можно задать до восьми пар «частота — длительность» с необязательной начальной задержкой. Вызов `process()` обрабатывает весь буфер целиком.\n\nПример кода:\n`  local card = require(\"component\").noise`\n`  card.setMode(1, card.modes.sawtooth)`\n`  card.play({{440, 4}, {880, 2}})`\nЭтот код воспроизводит пилообразную волну частотой 440 Гц в течение 4 секунд и прямоугольную волну частотой 880 Гц в течение 2 секунд.\n\nПример кода с буфером:\n`  local card = component.noise`\n`  card.setMode(1, card.modes.sawtooth)`\n`  card.add(1, 440, 4)`\n`  card.add(2, 880, 1, 2)`\n`  card.add(2, 220, 1)`\n`  card.process()`\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 7
@@ -331,6 +358,7 @@
     "before": null,
     "ru": "# Карта эффектов частиц\n\n![Все хотят красивые частицы.](item:computronics:computronics.ocParts@3)\n\nКарта эффектов частиц позволяет компьютерам, роботам и дронам со слотом улучшений уровня 2 или выше создавать частицы в заданной точке относительно устройства. Имя частицы, передаваемое функции API компонента, должно быть допустимым именем частицы Minecraft.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -343,6 +371,7 @@
     "before": null,
     "ru": "# Портативный стример\n\n![Музыка повсюду](item:computronics:computronics.portableTapeDrive@0)\n\nПортативный стример — это... переносная версия [стримера](../block/tape_drive.md)! В него можно вставить кассету и слушать музыку вдали от дома. Пригодится для долгих походов в шахту или совместного прослушивания с друзьями.\n\n### Управление:\n\n  * `Shift + Right Click:` Открыть интерфейс\n\n  * `Right Click:` Переключить воспроизведение и паузу\n\n  * `Shift-Scrolling:` Перемотать вперёд или назад\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 7
@@ -355,6 +384,7 @@
     "before": null,
     "ru": "# Конденсатор стойки\n\n![У меня есть энергия!](item:computronics:computronics.ocParts@12)\n\nКонденсатор стойки — это [конденсатор](/%LANGUAGE%/block/capacitor.md), устанавливаемый в [серверную стойку](/%LANGUAGE%/block/rack.md). Он обладает преимуществами обычного [конденсатора](/%LANGUAGE%/block/capacitor.md), но не получает бонуса за соседство.\n\nЭтот конденсатор предоставляет компонент `rack_capacitor`, через который можно в любой момент узнать запас энергии. Это полезно для проверки сети на проблемы с питанием.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -367,6 +397,7 @@
     "before": null,
     "ru": "# Улучшение: радар\n\n![Всё замечает.](item:computronics:computronics.ocParts@2)\n\nУлучшение радара имеет те же возможности, что и блок [радара](../block/radar.md), и устанавливается в робота или дрона со слотом улучшений уровня 3. Оно позволяет обнаруживать сущности поблизости: игроков, мобов и выброшенные предметы.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -379,6 +410,7 @@
     "before": null,
     "ru": "# Цифровой датчик реле\n\n![Одноразовый.](item:computronics:computronics.relaySensor)\n\nЦифровой датчик реле используется для сопряжения [локомотивного реле](../../block/railcraft/locomotive_relay.md) с электрическим локомотивом Railcraft. Для сопряжения сначала щёлкните датчиком правой кнопкой мыши по [локомотивному реле](../../block/railcraft/locomotive_relay.md), удерживая клавишу приседания, а затем, не отпуская её, щёлкните левой кнопкой мыши по электрическому локомотиву, чтобы прикрепить датчик.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -391,6 +423,7 @@
     "before": null,
     "ru": "# Карта самоуничтожения\n\n![Полезно и удобно.](item:computronics:computronics.ocParts@6)\n\nКарта самоуничтожения позволяет компьютеру или роботу уничтожить себя через заданное время (по умолчанию 5 секунд). Устройство уничтожается полностью и безвозвратно.\n\nМожно создать дискету `explode` с одноимённой программой для удобного самоуничтожения с множеством настроек.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -403,6 +436,7 @@
     "before": null,
     "ru": "# Самоуничтожение сервера\n\n![Передовые твердотельные технологии](item:computronics:computronics.ocParts@11)\n\nВам тоже кажется, что со временем в серверных стойках накапливается беспорядок? Последнее изобретение Hugging Creeper Industries решает эту проблему: SSD! По команде и через заданное время это чудесное устройство очистит свою и все подключённые [серверные стойки](/%LANGUAGE%/block/rack.md)! Да так тщательно, что вы больше не обнаружите в них ни одного другого установленного устройства, а сами стойки останутся целыми. Воистину гениально.\n\nПодобно [карте самоуничтожения](self_destructing_card.md), это устройство работает с дискетой `explode`, обеспечивающей удобное самоуничтожение с множеством настроек.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -415,6 +449,7 @@
     "before": null,
     "ru": "# Звуковая карта\n\n![♩♫♩♫♩♫♫♫♩♫♩♫♩♫♫♩♩♪♩♩♪♩♪♩♩♪♩♪♩♩♪♩♪♩♩♪♩♫♩♫♩♫♫♫♩♫♩♫♩♫♫♫♩](item:computronics:computronics.ocParts@9)\n\nЗвуковая карта — сложное устройство для синтеза звука с высокой точностью. Подобно [шумящей карте](noise_card.md), она позволяет создавать звуковые волны различной формы.\n\nЗвуковая карта предоставляет восемь каналов, каждый из которых может самостоятельно генерировать волну. Однако любой канал можно назначить для модуляции частоты и амплитуды другого. В этом случае он сам не издаёт звука, а изменяет волну несущего канала.\n\nЗвуковая карта работает на основе инструкций. Различные функции карты позволяют добавлять инструкции во внутреннюю очередь. Инструкция может изменить форму и частоту волны канала, назначить один канал для модуляции другого, задать для канала [ADSR](https://en.wikipedia.org/wiki/Synthesizer#Attack_Decay_Sustain_Release_.28ADSR.29_envelope) или просто изменить его громкость.\nПо умолчанию все каналы закрыты; их нужно открывать соответствующими инструкциями. Закрытые каналы обычно не издают звука (если задана огибающая ADSR, закрытие запускает фазу затухания).\n\nЧтобы звук воспроизводился в течение заданного времени, можно использовать инструкцию задержки: тогда все настройки, изменённые предыдущими инструкциями, будут действовать во время неё. Длительность задаётся в миллисекундах, что обеспечивает высокую точность синтеза. Добавив в очередь все необходимые инструкции, вызовите `process()`, чтобы обработать их и воспроизвести звук.\n\nПример:\n\n`  local sound = require(\"component\").sound`\n\n`  sound.setWave(1, sound.modes.sine)`\n`  sound.setFrequency(1, 440)`\n`  sound.open(1)`\n`  sound.delay(1000)`\n`  sound.close(1)`\n`  sound.process()`\n\nЭтот пример открывает первый канал для воспроизведения звука во время задержек и задаёт ему синусоидальную волну частотой 440 Гц (нота ля первой октавы, A4), а затем снова закрывает канал.\n\n`  sound.setWave(2, sound.modes.noise)`\n`  sound.setFrequency(2, 440)`\n`  sound.setVolume(2, 0.6)`\n`  sound.setADSR(2, 0, 250, 0, 0)`\n`  sound.open(2)`\n`  sound.delay(1500)`\n`  sound.close(2)`\n`  sound.process()`\n\nЭтот пример открывает второй канал и задаёт ему белый шум частотой 440 Гц с пониженной громкостью. Огибающая ADSR снижает громкость от заданного значения до 0 за 250 мс.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 9
@@ -427,6 +462,7 @@
     "before": null,
     "ru": "# Улучшение речи\n\n![ПЛАНЫ МИРОВОГО ГОСПОДСТВА УСПЕШНО ОСУЩЕСТВЛЯЮТСЯ.](item:computronics:oc_parts@14)\n\nУлучшение речи можно установить в робота или дрона со слотом улучшений уровня 2 или выше. Оно работает подобно [речевому ящику](../block/speech_box.md), позволяя устройству, в которое оно установлено, говорить.\n\n\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -439,6 +475,7 @@
     "before": null,
     "ru": "# Имитирующая карта\n\n![Если стукнуть по карте кирпичом...](item:computronics:computronics.ocParts@4)\n\nИмитирующая карта работает так же, как [сетевая карта](/%LANGUAGE%/item/lanCard.md) из Open Computers, но позволяет игроку задать адрес отправителя и тем самым скрыть устройство, отправляющее сетевые сообщения. Для неё требуется слот карт уровня 2 или выше.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -451,6 +488,7 @@
     "before": null,
     "ru": "# Плата переключателя\n\n![Щёлк-щёлк.](item:computronics:computronics.ocParts@13)\n\nЭту плату можно установить в серверную стойку. На её передней панели находятся четыре переключателя: их состояние можно проверять и изменять через компонент `switch_board`. Кроме того, каждое ручное или автоматическое переключение вызывает событие `switch_flipped`.\n\nСобытие `switch_flipped` выглядит следующим образом. Если синтаксис сигналов вам незнаком, обратитесь к [этому руководству](http://ocdoc.cil.li/component:signals).\n\n`switch_flipped(boardAddress:string, index:number, newState:boolean)`\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -463,6 +501,7 @@
     "before": null,
     "ru": "# Ленточная кассета\n\n![Может содержать музыку.](item:computronics:computronics.tape@0)\n\nЛенточные кассеты используются для записи и воспроизведения звука с помощью [стримера](../block/tape_drive.md). Их длительность составляет от 2 до 128 минут; на них также можно хранить другие данные (объём в мегабайтах примерно равен длительности кассеты в минутах, делённой на 4). Звук записывается в формате DFPWM, описанном на странице [стримера](../block/tape_drive.md).\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -475,6 +514,7 @@
     "before": null,
     "ru": "# Разноцветный модуль\n\n![Слишком красиво.](item:computronics:computronics.modules.tis3d@0)\n\nРаботающий разноцветный модуль непрерывно считывает значения со всех четырёх портов и меняет свой цвет на полученное значение.\n\nЦвет задаётся 15-битным двоичным числом. Последние 5 разрядов определяют оттенки синего, средние 5 — зелёного, а первые 5 — красного. Например, двоичное число `000000000011111` (после преобразования в десятичное) задаёт синий цвет.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -487,6 +527,7 @@
     "before": null,
     "ru": "# Руководство Computronics\n\nЗдесь перечислены все модули TIS-3D из Computronics, для которых есть документация.\n\n## Модули\n* [Разноцветный модуль](colorful_module.md)\n* [Модуль считывания кассет](tape_reader_module.md)\n* [Модуль самоуничтожения](self_destructing_module.md)\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 6
@@ -499,6 +540,7 @@
     "before": null,
     "ru": "# Модуль самоуничтожения\n\n![Полезно и удобно.](item:computronics:computronics.modules.tis3d@2)\n\nЭтот модуль позволяет удобно утилизировать [корпус](/%LANGUAGE%/block/casing.md) и его окружение взрывом. Во время работы он непрерывно считывает значения со всех четырёх портов. Получив число, большее или равное нулю, модуль устанавливает таймер на это значение и начинает обратный отсчёт. Скорость отсчёта зависит от скорости [контроллера](/%LANGUAGE%/block/controller.md). Если во время отсчёта модуль получит значение, меньшее текущего значения таймера, он установит таймер на новое значение.\n\nКогда таймер достигнет нуля, модуль и [корпус](/%LANGUAGE%/block/casing.md) самоуничтожатся. Устройства уничтожаются полностью и безвозвратно.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -511,6 +553,7 @@
     "before": null,
     "ru": "# Модуль считывания кассет\n\n![Никаких проблем с хранением.](item:computronics:computronics.modules.tis3d@1)\n\nМодуль считывания кассет может взаимодействовать с соседним стримером, записывая данные на вставленную в него ленточную кассету и считывая их с неё. Он также позволяет воспроизводить музыку с кассеты, если данные закодированы в формате [DFPWM](http://wiki.vex.tty.sh/dfpwm).\n\nДлительность кассет составляет от 2 до 128 минут, и на них можно хранить любые данные (объём в мегабайтах примерно равен длительности записываемого звука DFPWM в минутах, делённой на 4).\n\nМодуль принимает команды следующим образом: он непрерывно считывает значения со всех четырёх портов. Получив значение, он проверяет, является ли оно номером допустимой команды. Если да, модуль переходит к следующему этапу этой команды: ожидает дополнительные данные (параметр) на всех портах либо начинает записывать возвращаемые данные во все четыре порта. Выполнив команду, он снова начинает считывание со всех портов в ожидании следующей команды.\n\nДоступны следующие команды:\n\n* `0`: isEnd — возвращает 1, если стример пуст или вставленная кассета закончилась; иначе 0.\n* `1`: isReady — возвращает 1, если кассета вставлена; иначе 0.\n* `2`: getState — возвращает текущее состояние стримера в виде числа: `0` — остановлен, `1` — воспроизводит запись, `2` — перематывает назад, `3` — перематывает вперёд.\n* `3`: getSize — возвращает размер кассеты в байтах по модулю 1024.\n* `4`: getSize в кибибайтах — возвращает размер кассеты в кибибайтах, округлённый вниз до целого числа.\n* `5`: setSpeed — устанавливает скорость воспроизведения стримера в процентах на следующее считанное модулем значение. Допустимы значения от 25 до 200.\n* `6`: setVolume — устанавливает громкость стримера в процентах на следующее считанное модулем значение. Допустимы значения от 0 до 100.\n* `7`: seek — перемещает ленту на следующее считанное модулем значение в байтах. Отрицательные значения перемещают ленту назад (то есть перематывают её).\n* `8`: seek в кибибайтах — перемещает ленту на следующее считанное модулем значение в кибибайтах. Отрицательные значения перемещают ленту назад (то есть перематывают её).\n* `9`: read — считывает один байт с кассеты и возвращает его.\n* `10`: read нескольких байтов — считывает с кассеты количество байтов, равное следующему полученному модулем значению, и возвращает их по одному. Пример: параметр `4` заставит модуль выполнить запись во все свои порты 4 раза, каждый раз возвращая один считанный байт.\n* `11`: write — записывает на кассету следующее полученное модулем значение.\n* `12`: write нескольких байтов — следующее считанное модулем значение задаёт количество байтов для записи на кассету. Каждое последующее считанное значение записывается на кассету, пока не будет записано заданное количество байтов.\n* `13`: switchState — устанавливает состояние стримера на следующее полученное модулем значение. Допустимые числа указаны для команды 2 (getState).\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 20
@@ -523,6 +566,7 @@
     "before": null,
     "ru": "# Розовый фламинго\n\n![Да, он существует.](block:Flamingo:flamingo.flamingo)\n\nНедокументированная способность модуля последовательного порта толкать предметы позволяет заставить фламинго покачиваться. При записи любого значения в последовательный порт модуль заставляет фламинго качнуться, словно его толкнул человек.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -535,6 +579,7 @@
     "before": "# Сборщик роботов\n\n![Harder, better, faster, stronger.](oredict:oc:assembler)\n\nСборщик роботов - это продвинутая рабочая станция, позволяющая собирать такие сложные устройства, как [роботы](robot.md), [дроны](../item/drone.md) и [планшеты](../item/tablet.md). Они требуют для сборки большое количество энергии, поэтому рекомендуется использовать их совместно с [конденсатором энергии](capacitor.md).\n\nДля создания устройства с помощью сборщика нужно вставить корпус устройства. Для [роботов](robot.md) это [системный блок](case1.md) любого уровня, а для [планшетов](../item/tablet.md) это [корпус планшета](../item/tabletCase1.md). Как и со всеми устройствами OpenComputers, компоненты должны быть помещены в указанные слоты, а при наведении курсора на слот подсвечиваются компоненты, которые можно туда вставить. Если у вас открыт NEI, совместимые компоненты также будут подсвечены в NEI.\n\nПродолжайте вставлять все необходимые компоненты. Не забудьте про операционную систему или возможность установки ее позже (для роботов вы можете вставить [дисковод](diskDrive.md) для чтения [дискет](../item/floppy.md)). [EEPROM](../item/eeprom.md) большинства устройств может быть заменён после сборки, если поместить устройство и новый [EEPROM](../item/eeprom.md) в верстак. Старый [EEPROM](../item/eeprom.md) при этом будет возвращен вам в инвентарь.\n\nТакже [роботы](robot.md) могут иметь [монитор](screen1.md), для чего нужно установить в них [монитор первого уровня](screen1.md), а для возможности печатать на [мониторе](screen1.md) при сборке установите [клавиатуру](keyboard.md). У [планшетов](../item/tablet.md) [монитор](screen1.md) уже имеется в [корпусе планшета](../item/tabletCase1.md), но вы должны установить [клавиатуру](keyboard.md) для возможности печатать на [планшете](../item/tablet.md).\n\nПосле того, как вы поместили все нужные компоненты, нажмите кнопку старта и дождитесь, когда устройство будет собрано и заряжено. Также стоит заметить, что вы *не* сможете изменить устройство после сборки. Если вы что-то забыли или допустили ошибку, придется разобрать устройство в [разборщике](disassembler.md), у которого есть шанс сломать некоторые составляющие предметы.\n\nНаконец, о сложности: уровень предмета определяет, сколько пунктов сложности они будут требовать; компоненты первого уровня требуют 1 пункт сложности, второго уровня - 2 пункта, а третьего уровня - 3 пункта. Исключением являются улучшения-контейнеры, имеющие двойную сложность, например, [контейнеры апгрейдов](../item/upgradeContainer1.md) второго уровня требуют 4 пункта сложности. То же и для [контейнера карт](../item/cardContainer1.md)).\n",
     "ru": "# Сборщик роботов\n\n![Усерднее, лучше, быстрее, сильнее.](oredict:oc:assembler)\n\nСборщик роботов - это продвинутая рабочая станция, позволяющая собирать такие сложные устройства, как [роботы](robot.md), [дроны](../item/drone.md) и [планшеты](../item/tablet.md). Они требуют для сборки большое количество энергии, поэтому рекомендуется использовать их совместно с [конденсатором энергии](capacitor.md).\n\nДля создания устройства с помощью сборщика нужно вставить корпус устройства. Для [роботов](robot.md) это [системный блок](case1.md) любого уровня, а для [планшетов](../item/tablet.md) это [корпус планшета](../item/tabletCase1.md). Как и со всеми устройствами OpenComputers, компоненты должны быть помещены в указанные слоты, а при наведении курсора на слот подсвечиваются компоненты, которые можно туда вставить. Если у вас открыт NEI, совместимые компоненты также будут подсвечены в NEI.\n\nПродолжайте вставлять все необходимые компоненты. Не забудьте про операционную систему или возможность установки ее позже (для роботов вы можете вставить [дисковод](diskDrive.md) для чтения [дискет](../item/floppy.md)). [EEPROM](../item/eeprom.md) большинства устройств может быть заменён после сборки, если поместить устройство и новый [EEPROM](../item/eeprom.md) в верстак. Старый [EEPROM](../item/eeprom.md) при этом будет возвращен вам в инвентарь.\n\nТакже [роботы](robot.md) могут иметь [монитор](screen1.md), для чего нужно установить в них [монитор первого уровня](screen1.md), а для возможности печатать на [мониторе](screen1.md) при сборке установите [клавиатуру](keyboard.md). У [планшетов](../item/tablet.md) [монитор](screen1.md) уже имеется в [корпусе планшета](../item/tabletCase1.md), но вы должны установить [клавиатуру](keyboard.md) для возможности печатать на [планшете](../item/tablet.md).\n\nПосле того, как вы поместили все нужные компоненты, нажмите кнопку старта и дождитесь, когда устройство будет собрано и заряжено. Также стоит заметить, что вы *не* сможете изменить устройство после сборки. Если вы что-то забыли или допустили ошибку, придется разобрать устройство в [разборщике](disassembler.md), у которого есть шанс сломать некоторые составляющие предметы.\n\nНаконец, о сложности: уровень предмета определяет, сколько пунктов сложности они будут требовать; компоненты первого уровня требуют 1 пункт сложности, второго уровня - 2 пункта, а третьего уровня - 3 пункта. Исключением являются улучшения-контейнеры, имеющие двойную сложность, например, [контейнеры апгрейдов](../item/upgradeContainer1.md) второго уровня требуют 4 пункта сложности. То же и для [контейнера карт](../item/cardContainer1.md)).\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 1
@@ -547,6 +592,7 @@
     "before": "# Процессор с видеокартой (APU)\n\n![Awesomest Probability Unifier.](oredict:oc:apu1)\n\nЭто результат объединения [процессора](cpu1.md) и [видеокарты](graphicsCard1.md). Позволяет вам освободить один слот для карт в устройстве. Как и обычный процессор, он определяет архитектуру [компьютера](../general/computer.md) и максимальное количество компонентов, которые могут быть подключены к [компьютеру](../general/computer.md). Помимо этого, он предоставляет функции видеокарты.\n\nВ связи с ограниченным местом на чипе, эти процессоры немного медленнее своих \"чистых\" аналогов и предоставляют относительно посредственную графику. Так, APU первого уровня может контролировать столько же компонентов, сколько и процессор второго уровня, но по скорости работы он такой же, как процессор первого уровня и предоставляет графические возможности, как у видеокарты первого уровня.\n",
     "ru": "# Процессор с видеокартой (APU)\n\n![Наикрутейший объединитель вероятностей.](oredict:oc:apu1)\n\nЭто результат объединения [процессора](cpu1.md) и [видеокарты](graphicsCard1.md). Позволяет вам освободить один слот для карт в устройстве. Как и обычный процессор, он определяет архитектуру [компьютера](../general/computer.md) и максимальное количество компонентов, которые могут быть подключены к [компьютеру](../general/computer.md). Помимо этого, он предоставляет функции видеокарты.\n\nВ связи с ограниченным местом на чипе, эти процессоры немного медленнее своих \"чистых\" аналогов и предоставляют относительно посредственную графику. Так, APU первого уровня может контролировать столько же компонентов, сколько и процессор второго уровня, но по скорости работы он такой же, как процессор первого уровня и предоставляет графические возможности, как у видеокарты первого уровня.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 1
@@ -559,6 +605,7 @@
     "before": null,
     "ru": "# Улучшение: пчеловод\n\n![Ж-ж-ж-ж.](oredict:oc:beekeeperUpgrade)\n\nЭто улучшение позволяет [роботам](../block/robot.md) работать с пчёлами.",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 3
@@ -571,6 +618,7 @@
     "before": "# Улучшение \"База данных\"\n\n![Living in the database.](oredict:oc:databaseUpgrade1)\n\nУлучшение может быть настроено на хранение списка предметов, которые могут быть использованы другими компонентами. Это особенно полезно для элементов, отличающиеся только NBT-данными, которые не возвращаются методами компонентов.\n\nДля конфигурации базы данных откройте ее, кликнув правой кнопкой мыши, держа базу данных в руке. Поместите желаемые предметы в верхнюю часть инвентаря. База данных хранит \"призрачные\", а не реальные предметы.\n\nЕще базу данных можно сконфигурировать через API компонентов, предоставляемых [контроллерами инвентаря](inventoryControllerUpgrade.md) и [геоанализаторами](../block/geolyzer.md).\n",
     "ru": "# Улучшение \"База данных\"\n\n![Жизнь в базе данных.](oredict:oc:databaseUpgrade1)\n\nУлучшение может быть настроено на хранение списка предметов, которые могут быть использованы другими компонентами. Это особенно полезно для элементов, отличающиеся только NBT-данными, которые не возвращаются методами компонентов.\n\nДля конфигурации базы данных откройте ее, кликнув правой кнопкой мыши, держа базу данных в руке. Поместите желаемые предметы в верхнюю часть инвентаря. База данных хранит \"призрачные\", а не реальные предметы.\n\nЕще базу данных можно сконфигурировать через API компонентов, предоставляемых [контроллерами инвентаря](inventoryControllerUpgrade.md) и [геоанализаторами](../block/geolyzer.md).\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 1
@@ -583,6 +631,7 @@
     "before": null,
     "ru": "# МЭ-улучшение\n\n![Подключитесь к своей МЭ-сети](oredict:oc:me_upgrade1)\n\nМЭ-улучшение можно установить в [робота](../block/robot.md) или [дрона](../item/drone.md), чтобы подключить его к МЭ-системе по беспроводной связи. Поместите это улучшение или [робота](../block/robot.md)/[дрона](../item/drone.md) в терминал безопасности, чтобы связать его с вашей сетью. Дальность связи зависит от уровня улучшения.\n\n\nУровень 1: 0.5 от дальности точки доступа.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -595,6 +644,7 @@
     "before": null,
     "ru": "# МЭ-улучшение\n\n![Подключитесь к своей МЭ-сети](oredict:oc:me_upgrade2)\n\nМЭ-улучшение можно установить в [робота](../block/robot.md) или [дрона](../item/drone.md), чтобы подключить его к МЭ-системе по беспроводной связи. Поместите это улучшение или [робота](../block/robot.md)/[дрона](../item/drone.md) в терминал безопасности, чтобы связать его с вашей сетью. Дальность связи зависит от уровня улучшения.\n\n\nУровень 2: дальность точки доступа.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -607,6 +657,7 @@
     "before": null,
     "ru": "# МЭ-улучшение\n\n![Подключитесь к своей МЭ-сети](oredict:oc:me_upgrade3)\n\nМЭ-улучшение можно установить в [робота](../block/robot.md) или [дрона](../item/drone.md), чтобы подключить его к МЭ-системе по беспроводной связи. Поместите это улучшение или [робота](../block/robot.md)/[дрона](../item/drone.md) в терминал безопасности, чтобы связать его с вашей сетью. Дальность связи зависит от уровня улучшения.\n\n\nУровень 3: неограниченная дальность в любых измерениях",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 4
@@ -619,6 +670,7 @@
     "before": "# Оперативная память\n\n![Do you remember, dancing in September~](oredict:oc:ram1)\n\nПамять, как и [процессор](cpu1.md), - неотъемлемая часть всех [компьютеров](../general/computer.md). В зависимости от архитектуры [процессора](cpu1.md), именно память отвечает за то, что [компьютеры](../general/computer.md) могут делать, а что нет. Для стандартной архитектуры Lua, например, это позволяет контролировать количество памяти, которое могут использовать Lua-скрипты. Это значит, что для запуска больших и требовательных программ вам потребуется больше памяти.\n\nОперативная память имеет несколько уровней, в зависимости от ее объема. По умолчанию они следующие:\n- Уровень 1: 192 КБ\n- Уровень 1.5: 256 КБ\n- Уровень 2: 384 КБ\n- Уровень 2.5: 512 КБ\n- Уровень 3: 768 КБ\n- Уровень 3.5: 1024 КБ\n\nСледует заметить, что данные значения применимы только к архитектуре Lua. Другие архитектуры могут использовать другие объемы памяти для разных уровней. Также важно, что память первого уровня и память уровня 1.5 оба считаются первого уровня, аналогично для уровней 2 и 3.\n\nЭта параметры могут быть изменены в файле конфигурации, если требуется.\n",
     "ru": "# Оперативная память\n\n![Помнишь, как мы танцевали в сентябре~](oredict:oc:ram1)\n\nПамять, как и [процессор](cpu1.md), - неотъемлемая часть всех [компьютеров](../general/computer.md). В зависимости от архитектуры [процессора](cpu1.md), именно память отвечает за то, что [компьютеры](../general/computer.md) могут делать, а что нет. Для стандартной архитектуры Lua, например, это позволяет контролировать количество памяти, которое могут использовать Lua-скрипты. Это значит, что для запуска больших и требовательных программ вам потребуется больше памяти.\n\nОперативная память имеет несколько уровней, в зависимости от ее объема. По умолчанию они следующие:\n- Уровень 1: 192 КБ\n- Уровень 1.5: 256 КБ\n- Уровень 2: 384 КБ\n- Уровень 2.5: 512 КБ\n- Уровень 3: 768 КБ\n- Уровень 3.5: 1024 КБ\n\nСледует заметить, что данные значения применимы только к архитектуре Lua. Другие архитектуры могут использовать другие объемы памяти для разных уровней. Также важно, что память первого уровня и память уровня 1.5 оба считаются первого уровня, аналогично для уровней 2 и 3.\n\nЭта параметры могут быть изменены в файле конфигурации, если требуется.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "installed_2.9.0_beta_3_resource; current official mapping not verified",
     "changed_visible_lines": 1
@@ -631,6 +683,7 @@
     "before": null,
     "ru": "Тип машины: {yellow:Детектор конденсата Бозе-Эйнштейна (BEC)}\nПроверяет количество конденсата, хранящегося в {gold:{item:gregtech:gt.blockmachines:15755}}.\nВыдаёт сигнал красного камня при выполнении условия.\nУсловие настраивается в интерфейсе.\nЕсли фильтр конденсата пуст, учитывается суммарное количество всего хранимого конденсата.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "previous verified official snapshot; current official mapping not verified",
     "changed_visible_lines": 5
@@ -643,6 +696,7 @@
     "before": null,
     "ru": "Тип машины: {yellow:Люк контроллера узла телепортации BEC}\nВременно приостанавливает {gold:{item:gregtech:gt.blockmachines:15757}}, когда люк получает сигнал красного камня.\nУзел можно приостановить немедленно или при переходе к следующему этапу.\nПриостановленный узел не потребляет конденсат и не выходит из строя из-за примесей.\nУзел можно приостановить до начала рецепта: в таком случае он сразу перейдёт в режим ожидания при запуске рецепта.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "previous verified official snapshot; current official mapping not verified",
     "changed_visible_lines": 5
@@ -655,6 +709,7 @@
     "before": null,
     "ru": "Тип машины: {yellow:Детектор нанитов BEC}\nПроверяет тир нанитов, запрашиваемый {gold:{item:gregtech:gt.blockmachines:15757}}.\nВыдаёт сигнал красного камня при выполнении условия.\nУсловие настраивается в интерфейсе.\nАналоговый режим игнорирует порог и выдаёт аналоговый сигнал красного камня.\n",
     "machine_generated": true,
+    "generator_model": "GPT-6 Astra",
     "review_status": "manual_document_review_required",
     "source_match": "previous verified official snapshot; current official mapping not verified",
     "changed_visible_lines": 5

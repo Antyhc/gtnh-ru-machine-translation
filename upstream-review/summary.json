@@ -1,5 +1,7 @@
 {
   "machine_translation": true,
+  "generator_model": "GPT-6 Astra",
+  "generator_model_source": "Explicit publication instruction",
   "official_project_reviewed": false,
   "official_project_accepted": false,
   "language": "ru_RU",

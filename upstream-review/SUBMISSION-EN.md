@@ -1,6 +1,6 @@
-Russian localization additions for GTNH 2.9.0-beta-3 (machine-generated, for review)
+Russian localization additions for GTNH 2.9.0-beta-3 (generated with GPT-6 Astra, for review)
 
-This package proposes Russian localization additions and targeted corrections after the 2.8.4 to 2.9.0-beta-3 update. Newly written text is machine-generated and clearly marked. Existing community translations are credited to their source projects and excluded from the contribution delta when unchanged.
+This package proposes Russian localization additions and targeted corrections after the 2.8.4 to 2.9.0-beta-3 update. Newly written text was generated with **GPT-6 Astra** and is clearly marked as machine-generated. The model attribution follows the explicit publication instruction. Existing community translations are credited to their source projects and excluded from the contribution delta when unchanged.
 
 The review files contain 3348 deduplicated proposals whose keys and English values exactly match the official repository at commit `9b46c62598f38322dd0e69ed39c6e46cbc76582b`. Another 153 proposals need source mapping or changed-English review and are kept separate. The package also includes 55 Markdown documents for manual review. The JSON records show source English, previous Russian text, proposed Russian text, source paths, and proposed ParaTranz keys; no reviewed stage is claimed.
 
