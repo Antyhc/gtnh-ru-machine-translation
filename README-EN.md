@@ -1,0 +1,34 @@
+# GTNH 2.9.0-beta-3 — unofficial Russian localization supplement
+
+**Machine translation.** New translations and corrections were prepared with AI. Existing community translations were reused where the English source matched. This is not an official GTNH release and has not undergone a complete editorial review.
+
+The supplement restores or updates **6,557 unique localization keys** across **218 files**, including **55 Markdown documentation pages**. It uses Russian resources from GTNH 2.8.4, the installed 2.9.0-beta-3 resources, and source-matched community translations. Complete installable files also retain their pre-existing translations; 6,557 counts changed keys only.
+
+## Compatibility and installation
+
+Prepared and installed for **GTNH 2.9.0-beta-3**, with GregTech 5.09.54.133, GTNH Core 2.9.61 and BetterQuesting 3.8.84. Compatibility with final 2.9.0 or other versions is unverified. Compare the English source and keys before using it elsewhere: these full files can override newer translations. An existing GTNH installation with TXLoader is required.
+
+1. Close Minecraft. Back up the profile, or every existing file listed in `FILES.json`.
+2. Open the selected profile's `.minecraft` directory, which contains `mods` and `config`.
+3. Copy `GregTech_ru_RU.lang` and the contents of the archive's `config` directory into that directory, keeping the paths and allowing individual file replacement. Merge directories; do not replace the whole existing `config` directory.
+4. Start the profile, select Russian, and restart the game to refresh all translations.
+
+The README files, license, notices, manifest, resource list and `review` directory are documentation and need not be installed. The package contains no mod binaries, saves, recipes or complete modpack configuration.
+
+To uninstall, restore your backed-up files and individually remove files listed in `FILES.json` that did not previously exist. Do not delete the whole `config` or `txloader` directory.
+
+## Validation and limitations
+
+UTF-8, JSON, localization keys, placeholders, formatting codes, markup's technical arguments, links and installed file hashes were checked. Resource-loader behavior was checked separately. Recipes and gameplay mechanics were not changed. A basic in-game check received positive feedback; this does not cover every machine, quest, screen or guide.
+
+Technical identifiers, commands, formulas, common abbreviations and proper names remain unchanged. Twelve ambiguous strings remain in `review/unresolved.json`; some pre-existing Russian inaccuracies may also remain. Five pre-existing unkeyed continuation lines in the BetterQuesting file are retained and ignored by the loader; restored complete descriptions are present in keyed values. Some localization files are mirrored in actual resource domains and literal TXLoader folders such as `GregTech[gregtech]` to account for resource loading order.
+
+## Review material and sources
+
+`review/changes.json` contains 6,557 unique records with only namespace, key, en, before, ru and source. `before` refers to the audited installation, not current ParaTranz content. Historical source labels containing `manual` mean AI-authored work in this package, not human editorial review. The file is comparison material, not an automatic bulk-import command. `review/documents.json` contains the English source, previous Russian text when present, and result for all 55 pages. `FILES.json` lists relative installation paths and SHA-256 hashes; `MODS.md` gives per-resource counts.
+
+Community source: [GTNH-Translations](https://github.com/GTNewHorizons/GTNH-Translations), pinned revision [`abdf0f400676`](https://github.com/GTNewHorizons/GTNH-Translations/tree/abdf0f4006767bdc494f5467809bb695dfe4fba8). New text should be reviewed by the translation team before official integration. Follow that repository's contributor instructions.
+
+Original mod/community credits are retained. No local player identity or computer details are included. See `THIRD-PARTY-NOTICES.md` and `LICENSE` for license information.
+
+[Русская документация](README.md)

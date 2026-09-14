@@ -1,0 +1,5 @@
+item.collision_tool.name=Посох неосязаемости
+item.collision_tool.tooltip=ПКМ: переключить столкновение с микроблоками
+message.littletiles.tile_collision.disabled=Столкновение с микроблоками отключено
+message.littletiles.tile_collision.enabled=Столкновение с микроблоками включено
+tile.LTTile.name=Микроблок

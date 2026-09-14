@@ -1,0 +1,9 @@
+{
+  "schema": "neutral-maintainer-review-v1",
+  "deduplication_passed": true,
+  "exact_source_equality_passed": true,
+  "private_workspace_identifier_scan_passed": true,
+  "all_proposals_explicitly_machine_generated": true,
+  "external_write_performed": false,
+  "errors": []
+}

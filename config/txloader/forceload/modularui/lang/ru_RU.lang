@@ -1,0 +1,7 @@
+modularui.fluid.amount=§9Количество: %s/%s %s
+modularui.fluid.capacity=§9Ёмкость: %s %s
+modularui.fluid.click_combined=§cПКМ §7или §bЛКМ §7с контейнером для жидкости, чтобы §cопустошить §7или §bзаполнить §7бак (Shift-клик — для целого стака).
+modularui.fluid.click_to_empty=§cПКМ §7с контейнером для жидкости, чтобы §cопустошить §7бак (Shift-клик — для целого стака).
+modularui.fluid.click_to_fill=§bЛКМ §7с контейнером для жидкости, чтобы §bзаполнить §7бак (Shift-клик — для целого стака).
+modularui.fluid.phantom.amount=§9Количество: %s%s
+modularui.tooltip.shift=§bУдерживайте SHIFT

@@ -1,0 +1,5 @@
+bogosort.sortrules.nbt.forestry_genome.description=Сортирует пчёл, личинок, деревья и бабочек Forestry по основному виду
+bogosort.sortrules.nbt.forestry_genome.name=Виды Forestry
+bogosort.sortrules.nbt.tc_essentia.description=Сортирует ёмкости эссенции Thaumcraft по аспекту
+bogosort.sortrules.nbt.tc_essentia.name=Эссенция Thaumcraft
+bogosorter.config.ae2=Интеграция с AE2

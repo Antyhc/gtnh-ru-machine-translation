@@ -1,0 +1,872 @@
+[
+  {
+    "path": "daily-history/GregTech.lang",
+    "git_blob_sha": "d6fa8cb398e46cd9ae1749358c895ecd1c7f9695",
+    "sha256": "4cd4ed83c891b4dbfc4d8f3969ca91be5202b28cc95c367f36b7a44a6c710921"
+  },
+  {
+    "path": "daily-history/config/txloader/forceload/____gtnhoverridenames/lang/en_US.lang",
+    "git_blob_sha": "8d78e89763265b2db2d3f7dc893fcbdca487d2a4",
+    "sha256": "2f48c8fb1a7db96a37ce42222ed93dc9a2872d54870674de39472a7ee1368519"
+  },
+  {
+    "path": "daily-history/config/txloader/forceload/betterquesting/lang/en_US.lang",
+    "git_blob_sha": "9a84ceacebf5f70ff6e86a85d71e396d9b321b9b",
+    "sha256": "1c221541e7e8983968cf464251396a59c90549e2407c9710e9705ea9f3d4facb"
+  },
+  {
+    "path": "daily-history/resources/Angelica[angelica]/lang/en_US.lang",
+    "git_blob_sha": "f68868919924814b26080501d4d5b1b19cdb0dc6",
+    "sha256": "0f5f412abb7f1a0ab863b3bc6c666a6cc9b4bdbb3fa12ff558e7c90532602778"
+  },
+  {
+    "path": "daily-history/resources/Angelica[notfine]/lang/en_US.lang",
+    "git_blob_sha": "df74e085aa3f92dc57074333708a7dc6a4165395",
+    "sha256": "c2da425b2778a82131bc1731965650f4fc318866d8d240534dc339951690d597"
+  },
+  {
+    "path": "daily-history/resources/Applied Energistics 2[appliedenergistics2]/lang/en_US.lang",
+    "git_blob_sha": "0d096f957ca801713bcfff22d6ae766c4055008d",
+    "sha256": "f5ce65170b186139d7aa6d67b8069c4fb4a102f731ce6d7ce0d16fae6d88b7a0"
+  },
+  {
+    "path": "daily-history/resources/Automagy[automagy]/lang/en_US.lang",
+    "git_blob_sha": "82e668fdfcdf3e19df16f334caa8444c5557d822",
+    "sha256": "e41b82d8262095bc98a97f0d8d2c5c7ad1cd4b0f12d023a96772af32ba3e51c4"
+  },
+  {
+    "path": "daily-history/resources/Avaritia[avaritia]/lang/en_US.lang",
+    "git_blob_sha": "650bea0863dd54beb81c8215a0885f808500fd36",
+    "sha256": "881716ad30ead5c5e8936c48a69e3aefdc12bdc779a7bef455221906efb8906e"
+  },
+  {
+    "path": "daily-history/resources/BetterCrashes[bettercrashes]/lang/en_US.lang",
+    "git_blob_sha": "ac69ea100051817c4e003f723e49b0cf287e6a5a",
+    "sha256": "8bd8e9c8b596c012ea36a12623c35547b31481c89b8a2bd34bd7e7efcbfd837c"
+  },
+  {
+    "path": "daily-history/resources/BetterQuesting[betterquesting]/lang/en_US.lang",
+    "git_blob_sha": "edd34ea11356910849feea29d65d584bfd815d02",
+    "sha256": "07d0a6af227c07a4731e6316a2803c63b7d66bbee0c89633cc3ad95ea518c50f"
+  },
+  {
+    "path": "daily-history/resources/BiblioCraft[bibliocraft]/lang/en_US.lang",
+    "git_blob_sha": "a406292a45be62841f7fd2e8946d460d622b58fb",
+    "sha256": "0fe25a7a0a0973f4889022cb350747dbe1c5636c8c50ba6a8b028263710d1660"
+  },
+  {
+    "path": "daily-history/resources/BiblioWoods Biomes O'Plenty Edition[bibliocraft]/lang/en_US.lang",
+    "git_blob_sha": "a16fad5c44f828f689ed97c12375f4ddd7ff7254",
+    "sha256": "88827a98bdb739703280766448711485b4c7435de39934055b1f0d6e32f6fe3d"
+  },
+  {
+    "path": "daily-history/resources/BiblioWoods Forestry Edition[bibliocraft]/lang/en_US.lang",
+    "git_blob_sha": "9fc0de46980ebde1958390334f3c76fac938e788",
+    "sha256": "4501a3883fd75cb4695da7e6da4ce0e6cc68ec654cac97aa728c9d934ba0e7db"
+  },
+  {
+    "path": "daily-history/resources/BiblioWoods Natura Edition[bibliocraft]/lang/en_US.lang",
+    "git_blob_sha": "ca4a18b9931dc1bf574b5e42659e2f6a02e1d59a",
+    "sha256": "76586a735cb966799d04aa8a32d7efd109bbaa143ea6749c74148aa9f5758ca5"
+  },
+  {
+    "path": "daily-history/resources/Binnie Core[extrabees]/lang/en_US.lang",
+    "git_blob_sha": "db2c2e0982d336d839024aa1c8dfdfba372693af",
+    "sha256": "c2ae0c2cad9adb687a6548e9226c705ee2edd128638856f4c7c376ea05144491"
+  },
+  {
+    "path": "daily-history/resources/Blood Arsenal[bloodarsenal]/lang/en_US.lang",
+    "git_blob_sha": "a26126f141cef3c41810a5d6658aedeed2d02a38",
+    "sha256": "34d3542a98c7dc2af38cc83bbff0308f971185f8a28ee1afc14f756c937e9a3a"
+  },
+  {
+    "path": "daily-history/resources/Blood Magic_ Alchemical Wizardry[alchemicalwizardry]/lang/en_US.lang",
+    "git_blob_sha": "22061f0a7b67233035a76754c2f28d0706e6b0e3",
+    "sha256": "41b732032444d35fd46db7e10681fbacf3fc806f4b5705c6968eef8c61f01668"
+  },
+  {
+    "path": "daily-history/resources/Botania[botania]/lang/en_US.lang",
+    "git_blob_sha": "e77ed1dcd34d7f898bfa306b03397a3025500a69",
+    "sha256": "ef7926de2a5d2330801f33953e3b298c11c125ef7ee78654cc5686f3639ae949"
+  },
+  {
+    "path": "daily-history/resources/BuildCraft[buildcraft]/lang/en_US.lang",
+    "git_blob_sha": "7f31389d8d92c303b7ccd32c04d83f50f0d2c6ba",
+    "sha256": "daf95af2da8b346077c6a4f5408b6a615c8d8984dafd5f29847a24d173448db4"
+  },
+  {
+    "path": "daily-history/resources/Chisel[chisel]/lang/en_US.lang",
+    "git_blob_sha": "25a86e080ff797c00c1d088bb8687a75c57bdce2",
+    "sha256": "509f7df0a94df8d00497ecd3e8fcee511e5f21729fc303415691e8e58a5d4eae"
+  },
+  {
+    "path": "daily-history/resources/CoFH Core[cofh]/lang/en_US.lang",
+    "git_blob_sha": "1763d028c08cfc20a1f2190bccfd360f9fa6a791",
+    "sha256": "27afc1d2fe4ec5ca4ed2d37f8dca70ca91cc2a5fe9e28c7227aaaf02d18bdb06"
+  },
+  {
+    "path": "daily-history/resources/Compact Kinetic Wind and Water Generators[compactkineticgenerators]/lang/en_US.lang",
+    "git_blob_sha": "8f8d6b438a3d57a63b5782213e29eae1c0c2cbe3",
+    "sha256": "80ed56df21671479396bae7506f5f1600643319224df3d3006e5d26282358c99"
+  },
+  {
+    "path": "daily-history/resources/Controlling[controlling]/lang/en_US.lang",
+    "git_blob_sha": "f7d722107f01f6020070ca60246e186060c2331a",
+    "sha256": "e4567c2642078856858485227f53dbc46288d594d283e5109c15f32d9ebc7a81"
+  },
+  {
+    "path": "daily-history/resources/Cooking For Blockheads[cookingforblockheads]/lang/en_US.lang",
+    "git_blob_sha": "c1f7fe3026aee5a9c51ac40121ecc0bd7ffce790",
+    "sha256": "18af6f43950280086cd8b0f34e03d40e2f375471a39b4114372c6f36741b15d2"
+  },
+  {
+    "path": "daily-history/resources/CosmeticArmorReworked[cosmeticarmorreworked]/lang/en_US.lang",
+    "git_blob_sha": "4d9e91d94fb52d80ec22816ba94ffc16007f3c0b",
+    "sha256": "8910d34b4e97155946008f4756893e5976dc8dcb772fff8a3d297c3a9a01ca44"
+  },
+  {
+    "path": "daily-history/resources/CraftPresence[craftpresence]/lang/en_US.lang",
+    "git_blob_sha": "196dbbdf6cbec665e70e0cc05478a3a823259397",
+    "sha256": "5c943e31cb0b56b14a00647c2f471019c47783069349a5914dc42f4ccec74961"
+  },
+  {
+    "path": "daily-history/resources/Crops NH[cropsnh]/lang/en_US.lang",
+    "git_blob_sha": "2427bdc30cae6537fa24145e7043ac6a2f9da63a",
+    "sha256": "74f30351c2061e2aa3629541c092d79e61e5337cd55a307104e2cf01a6fbc2e1"
+  },
+  {
+    "path": "daily-history/resources/Electro-Magic Tools[emt]/lang/en_US.lang",
+    "git_blob_sha": "91b1463c7bd346cad67dc282e667577a60238d42",
+    "sha256": "41b60eb4928418a3c4eb0c4cc27d785fbf46c3daab86a97f8983e71c544c4c82"
+  },
+  {
+    "path": "daily-history/resources/Enhanced LootBags[enhancedlootbags]/lang/en_US.lang",
+    "git_blob_sha": "cac21ea52077de0f48ecc02059f253fb5afd1686",
+    "sha256": "bf8e413781411bc1d097a50cca532553d0c31e29b7d51d7ccdfdf3e406b3952d"
+  },
+  {
+    "path": "daily-history/resources/Et Futurum Requiem[etfuturum]/lang/en_US.lang",
+    "git_blob_sha": "3d96a21e730ee8ab2409a90fca6e5a59b9cd383c",
+    "sha256": "eb79b7ec340356751486b301360f88b681dad721766f7433417747982f2c3cf2"
+  },
+  {
+    "path": "daily-history/resources/Fether[fether]/lang/en_US.lang",
+    "git_blob_sha": "d58420c84f0f5c2a3c47f7485368bcc763ac0e93",
+    "sha256": "d346703ea3cc922fb04e2d6452bbf0a924e27c225b942891ecf8cc5734bc4d4e"
+  },
+  {
+    "path": "daily-history/resources/Forbidden Magic[forbidden]/lang/en_US.lang",
+    "git_blob_sha": "c4a64519612a5e4d19aa04f63b882020ab3f8973",
+    "sha256": "7a997991615f4b178b00d53b0131cfbf044950222f4a49f08bb4f3bbeee1a45e"
+  },
+  {
+    "path": "daily-history/resources/Forestry[forestry]/lang/en_US.lang",
+    "git_blob_sha": "8bcd0a563fbd4440d9136f7bfb02ffc7d733bb65",
+    "sha256": "124598b78a54ddbbec69aa224de05000aedc50c30b4ef4849d96ddc207e2f749"
+  },
+  {
+    "path": "daily-history/resources/GTNH Credits[gtnhcredits]/lang/en_US.lang",
+    "git_blob_sha": "4ff984fb99c3da835b1cbf429841531c6613d467",
+    "sha256": "028f23fa691d20e08f6f2784434d9f0b2964d0776daf44b96d8cafcc8ec059e6"
+  },
+  {
+    "path": "daily-history/resources/GTNH Guide Pack[appliedenergistics2]/lang/en_US.lang",
+    "git_blob_sha": "c7c1836c770a16cd7ab6e9980298b077e57aefcf",
+    "sha256": "bdaa22767a58ffba447b3587980c22da8bec7a1b2a6696fbc2ec212f9763b299"
+  },
+  {
+    "path": "daily-history/resources/GTNH Guide Pack[gregtech]/lang/en_US.lang",
+    "git_blob_sha": "a9bafb82b16c4c259db9242a47e38aa503c97a34",
+    "sha256": "4c65b6adccd90b9bbddea52b8dba26760673e8935e17ed472f7b2d224e5ff804"
+  },
+  {
+    "path": "daily-history/resources/GT_ New Horizons[dreamcraft]/lang/en_US.lang",
+    "git_blob_sha": "f3a6adc5bb7449d2a59a2f27e0d5c1a38625575c",
+    "sha256": "12a58f09de83c8dfe387962caca8df509e79d2ee40ddd8a9235a6af8c5781916"
+  },
+  {
+    "path": "daily-history/resources/Galacticraft Core[galacticraftmars]/lang/en_US.lang",
+    "git_blob_sha": "aa642d56ea93a27f83617782c7010218757c9890",
+    "sha256": "59d384eddd03bb46755273e73c5bac771e7fe5221a99b10e86b1fa64c7536d16"
+  },
+  {
+    "path": "daily-history/resources/Gendustry[gendustry]/lang/en_US.lang",
+    "git_blob_sha": "a9f5abf924f05ad9f88e9aca2203a5e6c8c7a97a",
+    "sha256": "065b233ce1537604b5cd1587912cf31554727c0c7a09940b54f6340e8debef72"
+  },
+  {
+    "path": "daily-history/resources/GregTech[bartworks]/lang/en_US.lang",
+    "git_blob_sha": "5d1906d8f63a8e4fc13191e3bff948d34d9d4790",
+    "sha256": "40ce85bbf541890f893e3acf7fe30b0ed97c7f67b6e39ed315fd34d8aa53716c"
+  },
+  {
+    "path": "daily-history/resources/GregTech[goodgenerator]/lang/en_US.lang",
+    "git_blob_sha": "b07f62413561c7bdea6a358bf5935c99d6784ea7",
+    "sha256": "e3a847db805438f3bf053acecc323fd507b7ac80f7fc5b4f9f164fd6ee15fa4b"
+  },
+  {
+    "path": "daily-history/resources/GregTech[gregtech]/lang/en_US.lang",
+    "git_blob_sha": "b53ee9a47497b1848aa975d1bb114c35e4932de7",
+    "sha256": "fc964c6d0ed994021fb9a71427c1fb7c425735f1de900eaf436725dc7bbecec9"
+  },
+  {
+    "path": "daily-history/resources/GregTech[gtneioreplugin]/lang/en_US.lang",
+    "git_blob_sha": "6ebce7a69372c9e20ac7557cee8bb9f59e04645c",
+    "sha256": "973ee55d7a554c5cc6e6c08f18c28b54ead002467a2f65cb1177400cb16a96d9"
+  },
+  {
+    "path": "daily-history/resources/GregTech[gtnhlanth]/lang/en_US.lang",
+    "git_blob_sha": "b2b6664eed4f1d6d4ee1781c254fc70ed157491f",
+    "sha256": "8d36d20709f28be033e0e79a05bd7ec6ec816f456aa6796a8fde3c8a03240b98"
+  },
+  {
+    "path": "daily-history/resources/GregTech[kubatech]/lang/en_US.lang",
+    "git_blob_sha": "2ec820e2e335307cc2bdb3626a3a9213a0f8872f",
+    "sha256": "6e5facdece061c5125f26b4e6294f1cb34fa52afd04f315440f20af05c2418bb"
+  },
+  {
+    "path": "daily-history/resources/GregTech[miscutils]/lang/en_US.lang",
+    "git_blob_sha": "87b2c32582f65a2739124c8220bf17b88fd24b85",
+    "sha256": "e14b59b96d69c2a4275f40ff16e4e85297e96d7b056d752b872cc63362bbce11"
+  },
+  {
+    "path": "daily-history/resources/GregTech[tectech]/lang/en_US.lang",
+    "git_blob_sha": "c34437882656b97ba77bc27d38c7d6ce5520f1a6",
+    "sha256": "2fe4e97e3a3c94bc9929b8d1e80e1b55103caa8b080c314e1b272985da44bf48"
+  },
+  {
+    "path": "daily-history/resources/Gregory Tweaks For Crafting[craftingtweaks]/lang/en_US.lang",
+    "git_blob_sha": "6b46437d8d53f8e61f0e6ba3c7f6e28c6c22556a",
+    "sha256": "28273cda9e14bf021b4ab80bc40bf2cc873cc36cf4acc421ac032830334211c7"
+  },
+  {
+    "path": "daily-history/resources/GuideNH[guidenh]/lang/en_US.lang",
+    "git_blob_sha": "ff2fd9a102d0357827f55121f02cf0c6b1a414a1",
+    "sha256": "6d6c305c3b923b3a7cb6d38af917cc073e606e0762fa39034ca87a5b3bf9e903"
+  },
+  {
+    "path": "daily-history/resources/Hardcore Ender Expansion[hardcoreenderexpansion]/lang/en_US.lang",
+    "git_blob_sha": "424a571df911ba4d21f1ba858b2537af0aa3f9a2",
+    "sha256": "843de8a1359f6fd669d08768ae72c2c39feaee40420cb1e0ea86bad4adac7284"
+  },
+  {
+    "path": "daily-history/resources/Hodgepodge[hodgepodge]/lang/en_US.lang",
+    "git_blob_sha": "b4bbf98f79f624648acfe1d5271128f5299e87fc",
+    "sha256": "2daf2ad07ce4e2ae75609265a49989f93b20ade30336168d093eee5ecc2c1ce0"
+  },
+  {
+    "path": "daily-history/resources/Inventory Bogo Sorter[bogosorter]/lang/en_US.lang",
+    "git_blob_sha": "b0b1e95b3a8e7898dc17db7dbc8d2b1dc7664257",
+    "sha256": "4cc2e43d5494e5bb3e5d53c1757deac2d80a7cb28accd0edf6755ef3c46ccc0a"
+  },
+  {
+    "path": "daily-history/resources/Iron Chests[ironchest]/lang/en_US.lang",
+    "git_blob_sha": "45a481150d98c4b3fd227d821a57bdb09d8ccd0e",
+    "sha256": "fdc922afb357e4d31e7df2fb40ff9257b5d6314a4901fb219d5aab87e9f48895"
+  },
+  {
+    "path": "daily-history/resources/JourneyMap[journeymap]/lang/en_US.lang",
+    "git_blob_sha": "8092f1ef6db8b8f4bc655253c5e6b38e6554575c",
+    "sha256": "eb7a9da135cf6cff92662c10d47f7d1c9c123f426e35e21b6dd16673118fd9d9"
+  },
+  {
+    "path": "daily-history/resources/LittleTiles[littletiles]/lang/en_US.lang",
+    "git_blob_sha": "6b74c969eff4e90a18e8c020d537038fbff2de0f",
+    "sha256": "a231d4d7adb7e987bf137b105fed9a803054ce1356c36d148465edb4920c4b38"
+  },
+  {
+    "path": "daily-history/resources/Logistics Pipes[logisticspipes]/lang/en_US.lang",
+    "git_blob_sha": "0d9f0e9a503cbd414cb3353eec35267196d224ad",
+    "sha256": "0f688e760c8a9fe37eff71aca925be1fd43bba475947a8791ada3c31a9deac9e"
+  },
+  {
+    "path": "daily-history/resources/Magic Bees[magicbees]/lang/en_US.lang",
+    "git_blob_sha": "2eabf0d9de4fd2e97aac824eb5dadc8052646581",
+    "sha256": "0fada72e0d6d29e825f42ef28589035684fb1b5651d0733f4b84102c828531d5"
+  },
+  {
+    "path": "daily-history/resources/Matter Manipulator[matter-manipulator]/lang/en_US.lang",
+    "git_blob_sha": "73d0596ee940f7cb673412e556592665ec8f26cb",
+    "sha256": "9c08e07193975c58b647e128a8106e4e60601df822785c741846b63d365bf595"
+  },
+  {
+    "path": "daily-history/resources/ModularUI[modularui]/lang/en_US.lang",
+    "git_blob_sha": "8dce7a68af38172e35aa7c595b9d09e130696165",
+    "sha256": "afcfac6f17705f30d0087d67010d8b3d5cc2b605df5418377dcd170019c24818"
+  },
+  {
+    "path": "daily-history/resources/NEI Custom Diagram[neicustomdiagram]/lang/en_US.lang",
+    "git_blob_sha": "1ad57f4d692ad478b5c0ac30a77a91eea714f3cc",
+    "sha256": "cf1e43b44e7887ad6ef758f812626f0326e0265ab6d3d975e6e7a9b56477bd9c"
+  },
+  {
+    "path": "daily-history/resources/NotEnoughItems[nei]/lang/en_US.lang",
+    "git_blob_sha": "592eab9a2fa31239939f7a5b984400493afadb9f",
+    "sha256": "500fdc1f5f249ab5163de24fd030c8c7b7c343aeb3c698b785bd5be93a40eb5d"
+  },
+  {
+    "path": "daily-history/resources/Open Modular Turrets[cofh]/lang/en_US.lang",
+    "git_blob_sha": "6aae4ca7f3e69c58792021ef4b969258725f0179",
+    "sha256": "00dc1fb1e8e6a4f883a140c4066e4693c8939a0b17a12de6cd30ea9643752a55"
+  },
+  {
+    "path": "daily-history/resources/Open Modular Turrets[openmodularturrets]/lang/en_US.lang",
+    "git_blob_sha": "a0e35ed043b7404f6c6301f7730cefa6380e1de2",
+    "sha256": "b4a28e0ec316694f0bcb227c955bddbcaaa40d81f08c33c0abd9179616526fdb"
+  },
+  {
+    "path": "daily-history/resources/OpenComputers[opencomputers]/lang/en_US.lang",
+    "git_blob_sha": "4c9762d612675aa58a08ad9eeede230e30a5d1a3",
+    "sha256": "8ee781072f54e48b4a0b6e504b78531a91d9e080e661aa0be98f92cd0126d7e7"
+  },
+  {
+    "path": "daily-history/resources/OpenPrinter[openprinter]/lang/en_US.lang",
+    "git_blob_sha": "cfc59c11da5daa561cf1e943e3ba1b22cc3bc1b1",
+    "sha256": "ae6be2ca8b400ce5d671830dbd7747101dd29576bbd2afdd83dca4179e0c5b95"
+  },
+  {
+    "path": "daily-history/resources/PersonalSpace[personalspace]/lang/en_US.lang",
+    "git_blob_sha": "de3cf8b7f05c3f6c5cb371c1a4df5026863ecf57",
+    "sha256": "6a50298e24e382b4f8b1f6f0fc1a7016715bdcf026248bb4c35893210f6136c8"
+  },
+  {
+    "path": "daily-history/resources/ProjectRed Core[projectred]/lang/en_US.lang",
+    "git_blob_sha": "4b4119c2ee39d77d160a181def88b43d1c0afe46",
+    "sha256": "0580e062422d2994d11ca58f5c20d43da783dcdc9623bdda860b06544b39afeb"
+  },
+  {
+    "path": "daily-history/resources/Railcraft[railcraft]/lang/en_US.lang",
+    "git_blob_sha": "5cf839d830b3213d5e8c9d2686bede88db173ff6",
+    "sha256": "944076a4919abf2477b1b46c35d55f5985b04fa72de5c3470e01de33ada41648"
+  },
+  {
+    "path": "daily-history/resources/Salis Arcana[salisarcana]/lang/en_US.lang",
+    "git_blob_sha": "4e52f080ab41a446e3e0add4736e7e9c36639f34",
+    "sha256": "15bb4a475a0f271c42b8087de82a5e07f195089e5872d5cd7b5edf8c5eb32a0e"
+  },
+  {
+    "path": "daily-history/resources/ServerUtilities[serverutilities]/lang/en_US.lang",
+    "git_blob_sha": "ed1ab5351794127abea8a69296810fda0b1029f1",
+    "sha256": "8a868487613241816cd75da74aa44dcf9ff43d02cd85d4e009489230b6d1bb89"
+  },
+  {
+    "path": "daily-history/resources/Steve's Factory Manager[stevesfactory]/lang/en_US.lang",
+    "git_blob_sha": "9c444df8c512153b3d5b7477c3ee302df27b4d5d",
+    "sha256": "48625585b04712fbace9f7a29d767349028ddbd8c795ef67ef8efd883f352f59"
+  },
+  {
+    "path": "daily-history/resources/Storage Drawers[storagedrawers]/lang/en_US.lang",
+    "git_blob_sha": "a5cbd04b030fa8cc834f281f6f5ba0cfd6b5fe51",
+    "sha256": "2ac46e938875eb0b7eec2e2ad961abe6c9bcd9d5fb8bd9b2e741ec91d7eab845"
+  },
+  {
+    "path": "daily-history/resources/TC Node Tracker[tcnodetracker]/lang/en_US.lang",
+    "git_blob_sha": "3c4f6cff668034ea77808f745c497cfc2187755a",
+    "sha256": "33de73b3a3f50dab44d7756996e5e123c3804b164270728f543a100f2560c064"
+  },
+  {
+    "path": "daily-history/resources/Thaumic Energistics[thaumicenergistics]/lang/en_US.lang",
+    "git_blob_sha": "7b2a95c6eafe1a07fe8e7d8c0558aee1eae265f0",
+    "sha256": "e535ca280db8381b9933dc1eed3f736b76afe4a8eebd4ed120ccf55d72839f1c"
+  },
+  {
+    "path": "daily-history/resources/Thaumic Exploration[thaumicexploration]/lang/en_US.lang",
+    "git_blob_sha": "9aa8bd54e59488d608a52f20804558ed5237fba6",
+    "sha256": "b78498117bc4a1a2a0d888e0e0aab5a5cb7103fe59db0e17c218e65658593346"
+  },
+  {
+    "path": "daily-history/resources/Thaumic Machina[thaumicmachina]/lang/en_US.lang",
+    "git_blob_sha": "df5791a9ec7ed211313fd0864e322e9707fce6b5",
+    "sha256": "367c03b437daae48d4700c2e91ace3a5b971335a3a9ea7862b2a51b07e9313f4"
+  },
+  {
+    "path": "daily-history/resources/Thaumic Tinkerer[ttinkerer]/lang/en_US.lang",
+    "git_blob_sha": "8b49c5b43c3e2ba1244318a8c6b6f0f5712e84b5",
+    "sha256": "97fc7ffb9c1ca55e403e8ca12bb35b6a3736a6c1d84dcb761283edd385f9d09b"
+  },
+  {
+    "path": "daily-history/resources/The Twilight Forest[tinker]/lang/en_US.lang",
+    "git_blob_sha": "3b191784fae39fd3c9a9c9c69a0e0eeb29ecfc17",
+    "sha256": "511cd5a0661f8aff1abffaac7f80ebcbdabba08fc4cac1e29aca0e8e93a44220"
+  },
+  {
+    "path": "daily-history/resources/Tinkers Defense[tinkersdefense]/lang/en_US.lang",
+    "git_blob_sha": "2f774ee5e09377856f6786aa9d97d37800877a4c",
+    "sha256": "95e8cc87036138bb3bbc11698ae969282d3e72a083448d78856f83a83dd0e6c3"
+  },
+  {
+    "path": "daily-history/resources/Tinkers' Construct[tinker]/lang/en_US.lang",
+    "git_blob_sha": "a6723b6d1e32de8e90bb74f2e53924e92121ec33",
+    "sha256": "e33f746b5c50995e638a57f63917e1847fca3985483783f1a180ce91e1847976"
+  },
+  {
+    "path": "daily-history/resources/VisualProspecting[visualprospecting]/lang/en_US.lang",
+    "git_blob_sha": "8a646557533922cc9d35e301018968cfd0be6d2d",
+    "sha256": "8043e083d4af40b82a917898040bdef94f332393653bac467fa616785e62b01f"
+  },
+  {
+    "path": "daily-history/resources/WAILA Plugins[wailaplugins]/lang/en_US.lang",
+    "git_blob_sha": "1a8727e1041300f334b343b76218b8ca028075c1",
+    "sha256": "83dbea855638d5918719c08aea3e55ff9674c4fedafa01f55f87e061219d3713"
+  },
+  {
+    "path": "daily-history/resources/Witchery++[witcheryextras]/lang/en_US.lang",
+    "git_blob_sha": "fe107aac9bc681cacf466342d7ccdd58f83eaa2b",
+    "sha256": "864eec696d5cac394aafcd7a4a84315ad89ae8d17a866a9392b37a40da27e588"
+  },
+  {
+    "path": "daily-history/resources/Witchery[witchery]/lang/en_US.lang",
+    "git_blob_sha": "a48006dd19fb2cf1d2cf906bc26c1ba902f9b8b4",
+    "sha256": "343797abf348ce0a9dcb86dc2ee5dc9f1e44d4e30ed099b0031e5333773ec0a2"
+  },
+  {
+    "path": "daily-history/resources/Witching Gadgets[witchinggadgets]/lang/en_US.lang",
+    "git_blob_sha": "62ac7f9d80903aa1c704af3816917f192a1a5be7",
+    "sha256": "180eb92e37a6b08f4388a4b381f73d8b810d1457deacfd47bd027d80e7ea0314"
+  },
+  {
+    "path": "daily-history/resources/Ztones[ztones]/lang/en_US.lang",
+    "git_blob_sha": "97ea8ecc33264a7417ba02c0db7b8e9e9e568b0c",
+    "sha256": "de489f4c7ef2b8315431571861cebfb7a8129014e5ad2a6ecdefb7c35f2770de"
+  },
+  {
+    "path": "daily-history/resources/botanichorizons[botanichorizons]/lang/en_US.lang",
+    "git_blob_sha": "832bbe486c2e76e083ed7b1f78e68cf419b5aa58",
+    "sha256": "92e299d72dcd18b7402f38198c66a0798c9e5de3f735bcebd0ec997a993468d1"
+  },
+  {
+    "path": "ru_RU/GregTech_ru_RU.lang",
+    "git_blob_sha": "7990abf264258b5e2519d7b28a1a44b67aec067a",
+    "sha256": "e9fcd76bd8cac93aed5e7bb3718fc25066bf59556487ba76003758ac7dc08170"
+  },
+  {
+    "path": "ru_RU/config/txloader/forceload/____gtnhoverridenames/lang/ru_RU.lang",
+    "git_blob_sha": "b76e82c7caf949d1315c47bf5d8794a55e998382",
+    "sha256": "5f26ca045600daf94d5a9c9ea1693540ded5decc593fc039f52b9d737453a284"
+  },
+  {
+    "path": "ru_RU/config/txloader/forceload/betterquesting/lang/ru_RU.lang",
+    "git_blob_sha": "bfd55de37f3250fb7f1ab88f043846ec44bb90e9",
+    "sha256": "8fa8f9a356a8985a3a9f889ad5aeb62db922535dad5130b86a92f63e1f3269d5"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Angelica[angelica]/lang/ru_RU.lang",
+    "git_blob_sha": "6d791f2e4300bdf0dc7106d751e32a6d95fa1da7",
+    "sha256": "d1b24f22d3ffcae74f95589bfa5414c7c5a7c845e4a31315c7beac0ac697d521"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Angelica[notfine]/lang/ru_RU.lang",
+    "git_blob_sha": "0ff9043d03ed610db4dbae00743d0c027dddd586",
+    "sha256": "1970439ed8d80934a88b483886af1e4b7da007406305406afec6ed5667f7d47c"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Applied Energistics 2[appliedenergistics2]/lang/ru_RU.lang",
+    "git_blob_sha": "33fefd11c098bdfb8ad7f9f12b9e10d1d9936b49",
+    "sha256": "b8204a18ee712cdcd14f32a1389ad75e4725f7c9bfa97cd8ed2a2039a203e397"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Automagy[automagy]/lang/ru_RU.lang",
+    "git_blob_sha": "7a812c11af9ebf69354f3961d00483414d6ae75f",
+    "sha256": "5b0af13b92d5d832e664a4565c6722da58514ed309366bc80a6a2d9e3d05f73a"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Avaritia[avaritia]/lang/ru_RU.lang",
+    "git_blob_sha": "9043a9b68b2283f85736a939bb1f3db1379d0c30",
+    "sha256": "34b47f3ea3545221c8a517820c8e83127a7b7cb75ea4cfc2c38953337c906e78"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/BetterCrashes[bettercrashes]/lang/ru_RU.lang",
+    "git_blob_sha": "f0ba0b36446f921dce4aba690ccf8737cadf0d83",
+    "sha256": "64be2b6ec08194468dd9faa5e94663558bc1e93354e04f210f41f61b51d15a28"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/BetterQuesting[betterquesting]/lang/ru_RU.lang",
+    "git_blob_sha": "8c9a8066bd1c0a71de2ee4d163d80d8b9904fd58",
+    "sha256": "231da546c842da971a6d4fdcbcd775b7823df134f6398c9ff9e8232c2ffc4480"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/BiblioCraft[bibliocraft]/lang/ru_RU.lang",
+    "git_blob_sha": "e2f39a353c96a63412b107e76e304290d9b0314b",
+    "sha256": "1f135e5724ac92989cd3e81ff05a692e1d50280bbaa2f3512d5fcc1fe833244e"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/BiblioWoods Biomes O'Plenty Edition[bibliocraft]/lang/ru_RU.lang",
+    "git_blob_sha": "f3b28f1553518bfba221e5298bedc6bdecefa3f1",
+    "sha256": "9be76b9cabfc8ab014ea4524ae411685e2de2562ab9f9526c0320ad1f5d4f30f"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/BiblioWoods Forestry Edition[bibliocraft]/lang/ru_RU.lang",
+    "git_blob_sha": "390c681a00c412660338f0a0732ce15c1a3dbebc",
+    "sha256": "3c1cdf6ef55864ac8b6f1944a0cb3d867eb51df4049f1a5dc78368e4520774f0"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/BiblioWoods Natura Edition[bibliocraft]/lang/ru_RU.lang",
+    "git_blob_sha": "3bd6950bd66e557a9274edfd1156d8fb87930063",
+    "sha256": "b553237c19adab2ae864a96a58d007b12855040ee5b32d934e649bcab50efebe"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Binnie Core[extrabees]/lang/ru_RU.lang",
+    "git_blob_sha": "78aa7f5dd4fc2b84ffe69e8f7e6808c05d349329",
+    "sha256": "452cc347aa1e31ff0e69cf030f3daeec720ff74a5db33c3b21e1d2602bff4421"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Blood Arsenal[bloodarsenal]/lang/ru_RU.lang",
+    "git_blob_sha": "443aed9cf6f1fc2b521f89d20ef0cd106e1dd3d4",
+    "sha256": "fd5235211c4ddfb938cae85dad30c11807ca9b7c135df49c0845df20a66f81ac"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Blood Magic_ Alchemical Wizardry[alchemicalwizardry]/lang/ru_RU.lang",
+    "git_blob_sha": "df73e4fc1ede1e701155f7dab464fdd21861a0b3",
+    "sha256": "b1e50e6b2242a2f7a4cb5ff1f20d5fd484237bb1675a3962e63e428f15772111"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Botania[botania]/lang/ru_RU.lang",
+    "git_blob_sha": "86204ae90ea85814df7b91bd7194000e0a11b89c",
+    "sha256": "7dc38405a2134a409395d0d61b4ff1029b52bf345a622c9780231625c16517d2"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/BuildCraft[buildcraft]/lang/ru_RU.lang",
+    "git_blob_sha": "fb4027cc8659f787ed3199ed98d0d616c606eedb",
+    "sha256": "7efc21c88f4dce420e65e8b985dc411d12b05799d22465f3d4865e30ca26a705"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Chisel[chisel]/lang/ru_RU.lang",
+    "git_blob_sha": "0ce45c9278214ffa01252fdbd590165a24416dea",
+    "sha256": "33a36c03d061f63215ac3d577de6b14b1628f2ff1d1c253293060e8d124b9f15"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/CoFH Core[cofh]/lang/ru_RU.lang",
+    "git_blob_sha": "4c59bb7e9cc8ed41e680407a870606459ffa483d",
+    "sha256": "8e4753c6775e3ce24880a9f3c45005bc1dcaa0a8e0c4e130d04803a270a2ce8a"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Compact Kinetic Wind and Water Generators[compactkineticgenerators]/lang/ru_RU.lang",
+    "git_blob_sha": "bbb9169b839050da22b2f936da86854e44fe6c24",
+    "sha256": "d6582d154522308c4733b52f722866579831c99b763ece93a801113f6d42487c"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Controlling[controlling]/lang/ru_RU.lang",
+    "git_blob_sha": "f25b73e619991a2f0bd6b15cb145939714cd6b79",
+    "sha256": "d7c1ca8e5bb74a1297abb518cf0ad1020b3c05aa8086bd64d1fd248e38aa46cd"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Cooking For Blockheads[cookingforblockheads]/lang/ru_RU.lang",
+    "git_blob_sha": "6fc18d3f7e68b17705a702753adc1ee7b08150a4",
+    "sha256": "765f5be21b256f5acf265eb68b925a71fa5acfb85df6ee5288fd82e5251c9433"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/CosmeticArmorReworked[cosmeticarmorreworked]/lang/ru_RU.lang",
+    "git_blob_sha": "cbdc210149a87f573965138860193a87061edc91",
+    "sha256": "30fb280bb1b6b8075f4b86b959d52e6b840e1b5ae77e6d465d990651148e1937"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/CraftPresence[craftpresence]/lang/ru_RU.lang",
+    "git_blob_sha": "2e6ff0a21aa2d43df69d0908920a349ca8e6e41d",
+    "sha256": "ea88e4b89d6d208eaf1ab07a9004e337e77a51b254c7fa1bdc93bd606b5db270"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Crops NH[cropsnh]/lang/ru_RU.lang",
+    "git_blob_sha": "e5626752b5697c9626b5b15661ef2ffde7ab9a1e",
+    "sha256": "3f21a3eace89b3a59942799f053d5e04c5142648cbb5b5aa1ed8424788cb2f7f"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Electro-Magic Tools[emt]/lang/ru_RU.lang",
+    "git_blob_sha": "7592d008824b5711f3515daead109b88a88769fa",
+    "sha256": "a26001bd964d9df65ff7ef844664a28f63ed26f0a5a2979836caa1ff23af53d6"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Enhanced LootBags[enhancedlootbags]/lang/ru_RU.lang",
+    "git_blob_sha": "662e884a3643c640642b65a976f3451c3287594a",
+    "sha256": "43fa2438a7f4a1950eff595a46c4f7d9a5c1eed2da4750bfbd9ec2e49da6cac5"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Et Futurum Requiem[etfuturum]/lang/ru_RU.lang",
+    "git_blob_sha": "c41bcb567c33c57fbfdcdc3313221e7e949de0c7",
+    "sha256": "03e2b86317a54aff6378875fca880e81d934378c11534458bda9b8a1826172f2"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Fether[fether]/lang/ru_RU.lang",
+    "git_blob_sha": "1540a2314af15d70c1557959e553d78d140c23b7",
+    "sha256": "e61c79e1a0ec717f298465a6dedb906b6c3ef6d490472b3b4d43a533cd92ada6"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Forbidden Magic[forbidden]/lang/ru_RU.lang",
+    "git_blob_sha": "b820b1b72eb7e73dd3691158f7fe2d1caab523e0",
+    "sha256": "180c957f413ea51810a3a8a730e0dfda239f8e9f895fa1a5fe884bf909d0dba7"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Forestry[forestry]/lang/ru_RU.lang",
+    "git_blob_sha": "3cbbe129e807d90b5e33477fabef77b695c51974",
+    "sha256": "965e26785e6d11714867780181415d14cadba4182783b802f6d6c83d1b970b76"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GTNH Credits[gtnhcredits]/lang/ru_RU.lang",
+    "git_blob_sha": "c4d80a741567daf86d97683564ef91f6c939b10d",
+    "sha256": "e2e05d2a01e850fb92962fe00a2298323d1628a30bf8c8ff0261dc8c2965acf2"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GTNH Guide Pack[appliedenergistics2]/lang/ru_RU.lang",
+    "git_blob_sha": "c7c1836c770a16cd7ab6e9980298b077e57aefcf",
+    "sha256": "bdaa22767a58ffba447b3587980c22da8bec7a1b2a6696fbc2ec212f9763b299"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GTNH Guide Pack[gregtech]/lang/ru_RU.lang",
+    "git_blob_sha": "a9bafb82b16c4c259db9242a47e38aa503c97a34",
+    "sha256": "4c65b6adccd90b9bbddea52b8dba26760673e8935e17ed472f7b2d224e5ff804"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GT_ New Horizons[dreamcraft]/lang/ru_RU.lang",
+    "git_blob_sha": "0ac5b0e5de629c87d99ebb7be5df1abced492d54",
+    "sha256": "d1f7da9d5a6d9b9ffe420a741d8ec1eb9439671fea6f9a6fbfb3f55383f08bfa"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Galacticraft Core[galacticraftmars]/lang/ru_RU.lang",
+    "git_blob_sha": "8babc85e0d6cfab1f6f4536a959d9f1ce5736641",
+    "sha256": "b3e9709a5ca4357377e8be9af6659de56b844ca7dd311318795739c3c34f7a20"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Gendustry[gendustry]/lang/ru_RU.lang",
+    "git_blob_sha": "eb56e9d45e56a9a66c68c67430a8fe53b3d74dbb",
+    "sha256": "b39cb969ab55dd4acf98658fefabc17d61557a5815ab6f9d897db085d72fae37"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GregTech[bartworks]/lang/ru_RU.lang",
+    "git_blob_sha": "9c58cc229b0f415edd4d2509070fcd4460883f9a",
+    "sha256": "aa1887454cb7cc130d9d1a47ba059ed1606cdff6b44a1c2346b5cbd832c3e43e"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GregTech[goodgenerator]/lang/ru_RU.lang",
+    "git_blob_sha": "346875d223044518a801d05b035c145a504667bb",
+    "sha256": "c206f927ac9a5a5c39f805f3650770b780998cc6c9d92e995b696ba848ea0a1d"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GregTech[gregtech]/lang/ru_RU.lang",
+    "git_blob_sha": "2e44264510d8e9cd203ef50c2d04c3a90e295d4f",
+    "sha256": "1e48505ddd5067084eda6339cee8f53b77bd7d920d9161f8f872650905a6a311"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GregTech[gtneioreplugin]/lang/ru_RU.lang",
+    "git_blob_sha": "ab561e7ecfcce58ea50c5f04b815dc88770bc4c5",
+    "sha256": "d94cb35f5a826e9d39f7028c302b44fcbf1e8736c754441ad7e093bdca92fc60"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GregTech[gtnhlanth]/lang/ru_RU.lang",
+    "git_blob_sha": "36f95ac4f877e204b2c8e6e3cc92e6c3c8b9b237",
+    "sha256": "08a4a2e5beb159657396cc9efd9ffa26af6223715c94e72b13f137042cdce43e"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GregTech[kubatech]/lang/ru_RU.lang",
+    "git_blob_sha": "9ec9c34f852ebce53b3f0448397c32301492bb1f",
+    "sha256": "865a320e72382e34ba019e0e8ccebc8c10148e662131719daa1683f70ad4d6f9"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GregTech[miscutils]/lang/ru_RU.lang",
+    "git_blob_sha": "d91fb17681d9e093f2a11fb8f941427d5bd5d290",
+    "sha256": "f711f33187a24391f5fde85cb0287e31341e5b88ef0b6f1009c2a8e86735d076"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GregTech[tectech]/lang/ru_RU.lang",
+    "git_blob_sha": "7c9ea14c96c2e99d15dab4c372a16ca2e0458197",
+    "sha256": "ef1799105ba9de3c181ec7eec5bca33241dc014b09aea8601f41573d76e0ce36"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Gregory Tweaks For Crafting[craftingtweaks]/lang/ru_RU.lang",
+    "git_blob_sha": "b9538ba90cfc2f09859e5cbf2361add0e72b47fc",
+    "sha256": "70371c83b3d8ed680c115f393f31cc85a863daec32e432511a118bd78d92d3cd"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/GuideNH[guidenh]/lang/ru_RU.lang",
+    "git_blob_sha": "43359598a89a73e844bd39d8ca955a5299e444a7",
+    "sha256": "297274e2f53ad4b202a73bf0f9128a574044d1a90d4c58778834cb9aee04eec4"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Hardcore Ender Expansion[hardcoreenderexpansion]/lang/ru_RU.lang",
+    "git_blob_sha": "9c7a62ee59c4424c587a5fa86d6b92098d61534b",
+    "sha256": "ca7fb8dfd2ae509bc72a735c8198ca5231032f11e1616cf29d3f4544f3dc9362"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Hodgepodge[hodgepodge]/lang/ru_RU.lang",
+    "git_blob_sha": "f0f1359e021b88fe5c4344a4f0edf9368df47500",
+    "sha256": "85a4275929b72d1f03cf7ba89c35711c55bfedda0c3cb828c76684105c8cf474"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Inventory Bogo Sorter[bogosorter]/lang/ru_RU.lang",
+    "git_blob_sha": "80826dda2721c3294412794748efa654ca9386ac",
+    "sha256": "430013f5a88c19f0879093dc940721af9c899de55be4e922c521fbcfb98dba8a"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Iron Chests[ironchest]/lang/ru_RU.lang",
+    "git_blob_sha": "7628e8c47845f2f365919aa316065585d35bb0be",
+    "sha256": "c23c1bf546990381025424a4051f3d73afe0294b108d15bc40117f47386e5d9a"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/JourneyMap[journeymap]/lang/ru_RU.lang",
+    "git_blob_sha": "44a84b86a18a30422f0fc614b975d2afc39b1568",
+    "sha256": "4e834a6bc1037d8d0b4eb55247389fc1242f6ea88954302e6257ec5ab8d90921"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/LittleTiles[littletiles]/lang/ru_RU.lang",
+    "git_blob_sha": "c2ab33394168f30889f879043e0e25765433aa93",
+    "sha256": "ff6154fa0f7aee2c445c5aeb7bc445b04d3f4a462730c322526ca1a10badf932"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Logistics Pipes[logisticspipes]/lang/ru_RU.lang",
+    "git_blob_sha": "282cd16f7e468a0dd47e088c60095aa59ede98b4",
+    "sha256": "6622b36bb55cfacc41f1ec9e5b7ae24f33245b966780b09d22fabcdf2e2adbd1"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Magic Bees[magicbees]/lang/ru_RU.lang",
+    "git_blob_sha": "6743887a15b82db631daa0435c14de89d09a59b9",
+    "sha256": "bb010a0d2e769a282b1bbcf938d566869194f8b664976962294091447ca07c43"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Matter Manipulator[matter-manipulator]/lang/ru_RU.lang",
+    "git_blob_sha": "cda49abb19d5813659eb69c7c112cad1710c6d56",
+    "sha256": "02c8b91182a59312b0157be651f61f0653792ea0d89e8691647024fabd1d6a6c"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/ModularUI[modularui]/lang/ru_RU.lang",
+    "git_blob_sha": "0adbd8a557841d5c9bf90b4e0b703c4e441152da",
+    "sha256": "329824f0f65476ad8ffbc39d6784ad6ba54dee759a07dcd1a92b7e803cd5cfc4"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/NEI Custom Diagram[neicustomdiagram]/lang/ru_RU.lang",
+    "git_blob_sha": "baa38281c1e51725586a33d5d2e8a45a434399e1",
+    "sha256": "c08f5e39c39f096ad9852855e27d0d9996b4bd523851e4c5bc896652df2f9dc0"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/NotEnoughItems[nei]/lang/ru_RU.lang",
+    "git_blob_sha": "6bcba3eb8e9672ab5de4c7633e1a1fd40c15cc4f",
+    "sha256": "962006af9e5f3bc626f9867febcbf31b4b326cf75e602b3c9cf9d4d4bce52286"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Open Modular Turrets[cofh]/lang/ru_RU.lang",
+    "git_blob_sha": "f2f615db1f5bd4cbdb50ef0e7659a305eeee39eb",
+    "sha256": "1c2b29174fb29575d24fdd7c288f30a3dc68d44a7eb42da87e33aa429f4d7cfb"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Open Modular Turrets[openmodularturrets]/lang/ru_RU.lang",
+    "git_blob_sha": "b894878b6853afacdf8b920aa660eebdd232a91e",
+    "sha256": "9caa880baee779c93636e5fb293402d6403ce1a80126545e6260c3f69c53cf79"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/OpenComputers[opencomputers]/lang/ru_RU.lang",
+    "git_blob_sha": "aa8711105e2c7e0e0a1a15a4b9d89589caca9ea9",
+    "sha256": "aabc4397f464c1d16f8dc815e4ab8da15cc7e6e9efbb823346af98e4db761ce7"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/OpenPrinter[openprinter]/lang/ru_RU.lang",
+    "git_blob_sha": "b405f6e2e5a0debab032c5d03c0bd8fadcbb2415",
+    "sha256": "0d7797569afeb237333e3dd7d51d547ddc419119e08eb8bf8ea1cc3f3edf9260"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/PersonalSpace[personalspace]/lang/ru_RU.lang",
+    "git_blob_sha": "b73930ccab4056dcb7a63481789aef7268330481",
+    "sha256": "42e5507bead468e847b60a915dcd69d89d2fad4fb2284299ba4ec185070fbf25"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/ProjectRed Core[projectred]/lang/ru_RU.lang",
+    "git_blob_sha": "2bda76a581d5c3a87922691b056e34ce4f634f04",
+    "sha256": "7980df0d2a6a3d28557c7f5dd8263d3fd6851512fceab96d3f8139a5873cd1bf"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Railcraft[railcraft]/lang/ru_RU.lang",
+    "git_blob_sha": "db135bd56f4e7566b13df27a6243541013be29ca",
+    "sha256": "fc6aa1d3225637d336b273ec07c967c43296c68b6377dc64ace871da557324be"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Salis Arcana[salisarcana]/lang/ru_RU.lang",
+    "git_blob_sha": "b0fed2e82064f97afc4b306fccb27b6a2e09ee0e",
+    "sha256": "c1830b41d68857b83d136c8ff150e51dd3fa4304c790eee8a067ca631fe36d9b"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/ServerUtilities[serverutilities]/lang/ru_RU.lang",
+    "git_blob_sha": "f5242a5c2a57e5cef6e7d031a5a62f08df7047de",
+    "sha256": "bf595c6b97814659893e7de802f29679fcf23affdb81c05b0c91b18881f958cc"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Steve's Factory Manager[stevesfactory]/lang/ru_RU.lang",
+    "git_blob_sha": "787679734ff3a381e08c86d268b746f21b6482a7",
+    "sha256": "e512f1f5040410802eba25c4e9f85a41a00797a89924722a55ffa93b22478c02"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Storage Drawers[storagedrawers]/lang/ru_RU.lang",
+    "git_blob_sha": "19d2303ba09a73d781f29e34d4cffea9ca84a64d",
+    "sha256": "fb9272114fe6e5a2966b2f69200564f86336d92b31439c7524a409436bb81cd8"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/TC Node Tracker[tcnodetracker]/lang/ru_RU.lang",
+    "git_blob_sha": "3ac01badc3826043033e03ebadf15971e9995a89",
+    "sha256": "ff8c301be398ab2d19b12c147ac591fb1571b2fa7675d3fb0fddd4af7214a8de"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Thaumic Energistics[thaumicenergistics]/lang/ru_RU.lang",
+    "git_blob_sha": "d24da3549b8eb3457fb3936a961544b35e17e958",
+    "sha256": "83ba35d95a72b03498ff51ec24af72397e9ce17704815596c359f8984de62ad4"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Thaumic Exploration[thaumicexploration]/lang/ru_RU.lang",
+    "git_blob_sha": "a3c923c6f0c0f0310a4b3b66aeb8f02c9f361f98",
+    "sha256": "5052d3d2ac59192f1f6627dd46e69e61a36f51173a34e0f768ce34c424453fbd"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Thaumic Machina[thaumicmachina]/lang/ru_RU.lang",
+    "git_blob_sha": "b3d04e1093cdeda69ed55b18eb4151e74a14d918",
+    "sha256": "160dd00fb479349e294d67ab428379d344d32510bbe5898c5aea32895b447fb5"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Thaumic Tinkerer[ttinkerer]/lang/ru_RU.lang",
+    "git_blob_sha": "068a9dd8995462830eef0020ebd2eb8e9da6226c",
+    "sha256": "1bb9ab748f0b85cbfe3d1d5980fa6eea4cde39dfccf477329966783b54c6a1a2"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/The Twilight Forest[tinker]/lang/ru_RU.lang",
+    "git_blob_sha": "145a714187c4a58d9a01891391147fc5e6fe76ce",
+    "sha256": "9aad64513c2d2a2abe755c36d953a674f9686d7eb923508aa8b61c67ce232cf2"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Tinkers Defense[tinkersdefense]/lang/ru_RU.lang",
+    "git_blob_sha": "fb749a7e9cbd6616a8b9be266252a1ea21ad2201",
+    "sha256": "bb48c43e9f667806875b5e6d317a96ac903f6ff7836435d9a951dea0db28f1e6"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Tinkers' Construct[tinker]/lang/ru_RU.lang",
+    "git_blob_sha": "53e518b16fcdc93402a4a0e491289efef1618801",
+    "sha256": "629698a780f836924a98cb73bee31a71cc0209706da46fbb150674f571c656d3"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/VisualProspecting[visualprospecting]/lang/ru_RU.lang",
+    "git_blob_sha": "6be3229114eee621f8b69937f3e65affdd39e79b",
+    "sha256": "cf27d5e9001a149a617a1d2bc6be5fe31197ae310babfed209aefef54f37004f"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/WAILA Plugins[wailaplugins]/lang/ru_RU.lang",
+    "git_blob_sha": "d081dfda00d81b1a930d7e9e08a47615268c928e",
+    "sha256": "d1a5a74ac5c1a1ad34d020b262e367964b6a08add8581dd50f3c077df02d5aa0"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Witchery++[witcheryextras]/lang/ru_RU.lang",
+    "git_blob_sha": "45696ce32bdad3239300494aa4840751f17255c8",
+    "sha256": "d198c7b0a1430edd1c12ab4ab743ad655535401160f49f2f1a4161ae107f4c1a"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Witchery[witchery]/lang/ru_RU.lang",
+    "git_blob_sha": "551c766633b3fa958fe93c3a4979d9035539d672",
+    "sha256": "0f3b140dfff4479816b14202536fb02a143de3258a551235eb72ee62b5ac9315"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Witching Gadgets[witchinggadgets]/lang/ru_RU.lang",
+    "git_blob_sha": "10fd08c2b776e3d36c3d58f3c0cc864030309d50",
+    "sha256": "d35de79e04e80d121d66850fb13f8ed227785974740152ba8a407ebe45ac0441"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/Ztones[ztones]/lang/ru_RU.lang",
+    "git_blob_sha": "8c731a9f7e14f0817daf170892288bd75252d2a1",
+    "sha256": "6c3f2f936822579fa219c10e417a7d262c350395912efbb10de5932c0a209548"
+  },
+  {
+    "path": "ru_RU/config/txloader/load/botanichorizons[botanichorizons]/lang/ru_RU.lang",
+    "git_blob_sha": "e77f222722664d4971d5b4ef6e7d9464a4a14805",
+    "sha256": "e29be91e7636ddc1915ef59b5d3f31c32e5c1cd7d83b8543b930ed8a1d38a0fa"
+  }
+]

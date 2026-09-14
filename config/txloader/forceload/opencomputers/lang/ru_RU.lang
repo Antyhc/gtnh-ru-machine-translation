@@ -1,0 +1,7 @@
+nei.options.inventory.oredict=Показывать имена словаря руд
+oc:gui.InputBuffer.FileNameTooLong=Длина имени файла превышает максимум: %s символов.
+oc:gui.InputBuffer.FileTooLarge=Размер файла превышает максимум: %s байт.
+oc:gui.InputBuffer.TooFrequentFiles=Частота загрузки превышает максимум: %s файлов в секунду.
+oc:gui.InputBuffer.TooManyFiles=Количество файлов превышает максимум: %s.
+oc:gui.Manual.Warning.OreDictMissing=Запись словаря руд недоступна.
+oc:tooltip.PowerConverter.Factorization=§fFactorization заряд§7: §a%s:%s§7

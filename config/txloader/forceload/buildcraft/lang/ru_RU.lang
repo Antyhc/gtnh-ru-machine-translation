@@ -1,0 +1,3 @@
+config.worldgen.biomes.biomeOilDesert=ID биома Нефтеносных песков
+config.worldgen.biomes.biomeOilOcean=ID биома Нефтеносного шельфа
+gate.name=%s %s гейт

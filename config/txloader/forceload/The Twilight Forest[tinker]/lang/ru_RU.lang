@@ -1,0 +1,8 @@
+gui.smeltery.emerald=%s изумрудов
+gui.smeltery.glass.block=%s блоков
+gui.smeltery.glass.pannel=%s панелей
+gui.smeltery.metal.ingot=%s слитков
+gui.smeltery.metal.nugget=%s самородков
+pattern1.tooltip=Стоимость материала: %s
+pattern2.tooltip=Стоимость материала: %s
+searedtank1.tooltip=Содержит %s

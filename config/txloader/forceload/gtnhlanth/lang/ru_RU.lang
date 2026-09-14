@@ -1,0 +1,17 @@
+GT5U.gui.text.recipe_result.gtnhlanth.toohighenergy=Энергия выше требуемой!
+beamline.materialenergy=Максимальная энергия материала
+beamline.particleenergy=Максимальная энергия частиц
+beamline.pipe.desc.1=Пучки не могут пересекаться или изгибаться
+gtnhlanth.tt.disstank.structure.any_casing=Любой корпус из нержавеющей стали
+gtnhlanth.tt.linac.structure.hatch_pos=Любой корпус нижнего ребра в 3-8 блоках от передней стороны
+gtnhlanth.tt.linac.structure.input_hatch_pos=Верхний центральный корпус, 8-й блок от передней стороны
+gtnhlanth.tt.linac.structure.output_hatch_pos=Верхний центральный корпус, 8-й блок от задней стороны
+gtnhlanth.tt.sc.input=§cТребуется 1 входная шина ИЛИ 1 входной люк
+gtnhlanth.tt.sc.machinetype=Источник частиц
+gtnhlanth.tt.sc.structure.output_pos=Позади контроллера
+gtnhlanth.tt.synch.structure.beam_input_pos=Слева от контроллера
+gtnhlanth.tt.synch.structure.beam_output_pos=Справа и позади контроллера
+gtnhlanth.tt.synch.structure.energy_pos=Над каждым корпусом антенны
+gtnhlanth.tt.synch.structure.input_hatch_pos=Между энергетическими люками
+gtnhlanth.tt.synch.structure.output_hatch_pos=Напротив входных люков
+gtnhlanth.tt.tc.structure.input_bus_pos=Второй верхний центральный корпус спереди (маски) и сзади (пластины)

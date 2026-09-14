@@ -1,0 +1,14 @@
+gui.personalWorld.boundary.allowed=Разрешено: %s
+gui.personalWorld.boundary.blockNotAllowed.a=Блок границы A не разрешён
+gui.personalWorld.boundary.blockNotAllowed.b=Блок границы B не разрешён
+gui.personalWorld.boundary.chunks=Размер границы в чанках X x Z (0-20)
+gui.personalWorld.boundary.invalidMeta=Недопустимые метаданные
+gui.personalWorld.gap=Ширина промежутка в чанках (0-5)
+gui.personalWorld.gap.a=Промежуток A
+gui.personalWorld.gap.b=Промежуток B
+gui.personalWorld.gap.blockNotAllowed.a=Блок промежутка A не разрешён
+gui.personalWorld.gap.blockNotAllowed.b=Блок промежутка B не разрешён
+gui.personalWorld.gap.blockNotAllowed.c=Блок промежутка C не разрешён
+gui.personalWorld.gap.c=Промежуток C
+gui.personalWorld.gap.preset.ROAD=Дорога
+gui.personalWorld.gap.preset.SOLID=Сплошной

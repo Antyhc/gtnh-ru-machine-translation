@@ -1,0 +1,8 @@
+nei.chat.item_link.group.text=Добавить группу в закладки
+nei.chat.item_link.item.text=Добавить предмет в закладки
+nei.chat.item_link.recipe.text=Добавить рецепт в закладки
+nei.chat.recipeid.dump.finish=Обработка обработчиков рецептов завершена!
+nei.chat.recipeid.dump.start=Начата обработка обработчиков рецептов!
+nei.options.inventory.history.save=Сохранение истории
+nei.recipe.search.tooltip.prefix=%sтекст§8 - §7%s
+nei.subsets.Untranslated=Без перевода

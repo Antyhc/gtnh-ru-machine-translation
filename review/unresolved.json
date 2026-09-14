@@ -1,0 +1,74 @@
+[
+  {
+    "namespace": "gregtech",
+    "key": "gt.item.food.icecream_boucream.name",
+    "en": "Boucream",
+    "classification": "Требуется контекст: техническое имя или неочевидное собственное название"
+  },
+  {
+    "namespace": "gregtech",
+    "key": "gregtech.lifeEon",
+    "en": "Eon",
+    "classification": "Требуется контекст: техническое имя или неочевидное собственное название"
+  },
+  {
+    "namespace": "gregtech",
+    "key": "fluid.oilgc",
+    "en": "oilgc",
+    "classification": "Требуется контекст: техническое имя или неочевидное собственное название"
+  },
+  {
+    "namespace": "gregtech",
+    "key": "fluid.fuelgc",
+    "en": "fuelgc",
+    "classification": "Требуется контекст: техническое имя или неочевидное собственное название"
+  },
+  {
+    "namespace": "ic2",
+    "key": "ic2.blockGenerator",
+    "en": "RTG POWARZ",
+    "classification": "Неоднозначное диагностическое имя IC2; требуется контекст в игре"
+  },
+  {
+    "namespace": "ic2",
+    "key": "ic2.blockGenerator.0",
+    "en": "RTG POWA",
+    "classification": "Неоднозначное диагностическое имя IC2; требуется контекст в игре"
+  },
+  {
+    "namespace": "ic2",
+    "key": "ic2.blockGenerator.1",
+    "en": "KINETIC POWA",
+    "classification": "Неоднозначное диагностическое имя IC2; требуется контекст в игре"
+  },
+  {
+    "namespace": "ic2",
+    "key": "ic2.blockGenerator.2",
+    "en": "ERROR POWA",
+    "classification": "Неоднозначное диагностическое имя IC2; требуется контекст в игре"
+  },
+  {
+    "namespace": "ic2",
+    "key": "ic2.blockGenerator.3",
+    "en": "MOAR ERROR POWA",
+    "classification": "Неоднозначное диагностическое имя IC2; требуется контекст в игре"
+  },
+  {
+    "namespace": "ic2",
+    "key": "ic2.blockRTGenerator2",
+    "en": "RTG POWARZ 2",
+    "classification": "Неоднозначное диагностическое имя IC2; требуется контекст в игре"
+  },
+  {
+    "namespace": "ic2",
+    "key": "ic2.blockKineticGenerator2",
+    "en": "KINETIC POWA 2",
+    "classification": "Неоднозначное диагностическое имя IC2; требуется контекст в игре"
+  },
+  {
+    "namespace": "miscutils",
+    "key": "MU-metaitem.01.0.name",
+    "en": "MU-metaitem.01.0.name",
+    "classification": "Требуется контекст: техническое имя или неочевидное собственное название"
+  }
+]

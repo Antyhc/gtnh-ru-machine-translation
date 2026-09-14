@@ -1,0 +1,17 @@
+kubatech.chat.eec.infernal_drops_disabled=Появление адских мобов запрещено
+kubatech.chat.eec.infernal_drops_enabled=Мобы могут появляться адскими
+kubatech.gui.text.eec.cycle_weapons.info=Если включено §fсохранение оружия§r, почти сломанное оружие перемещается из интерфейса в выходные шины при наличии места.
+kubatech.gui.text.eec.cycle_weapons_off=Смена оружия: ВЫКЛ
+kubatech.gui.text.eec.cycle_weapons_on=Смена оружия: ВКЛ
+kubatech.gui.text.eec.preserve_weapon_warning=Оружие из интерфейса не используется.
+kubatech.gui.text.eec.void_all_damaged.warning=Не влияет на добычу с адских мобов и некоторые особые предметы, например липкий меч! Никогда не уничтожает оружие в слоте интерфейса.
+kubatech.gui.text.eig.no_humidity_mode=Режим без влажности
+kubatech.gui.text.tea_ultimate.benefits=ПРЕИМУЩЕСТВА
+kubatech.gui.text.tea_ultimate.exchange=ОБМЕН
+kubatech.gui.text.tea_ultimate.exchange.cost=Стоимость: %s чая
+kubatech.gui.tooltip.dynamic_inventory.eig.remaining_seed_capacity=Оставшаяся вместимость для семян: %d
+kubatech.gui.tooltip.tea_ultimate.tea_acceptor_research_note=Записка исследования приёмника чая
+kubatech.infodata.eec.cycle_weapons.no=Смена оружия: §eнет
+kubatech.infodata.eec.cycle_weapons.yes=Смена оружия: §eда
+kubatech.infodata.eec.weapon_preservation.no=Сохранение оружия: §eнет
+kubatech.infodata.eec.weapon_preservation.yes=Сохранение оружия: §eда

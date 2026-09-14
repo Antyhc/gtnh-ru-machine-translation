@@ -1,0 +1,10 @@
+entity.witchery.attackbat.name=Боевая летучая мышь
+entity.witchery.eye.name=Око
+entity.witchery.mirrorface.name=Зеркальное лицо
+fluid.witchery:brew=Варево
+fluid.witchery:brewgas=Газообразное варево
+fluid.witchery:brewliquid=Жидкое варево
+fluid.witchery:fluiddisease=Жидкая болезнь
+fluid.witchery:fluidspirit=Жидкий дух
+witchery:cauldronbook.partlava=[h1 Эффект: раздвигание лавы]На время отталкивает лаву.
+witchery:potion.unknown=<неизвестно>

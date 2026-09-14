@@ -1,0 +1,1310 @@
+[
+  {
+    "path": "GregTech_ru_RU.lang",
+    "sha256": "2cd5b736f6465174972af5e372f9051820d9a331d1550bb7f26de0d2d6936c5c",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Angelica[angelica]/lang/ru_RU.lang",
+    "sha256": "f89876a7204f34adffcbd55f16bd50efa3ec048c9f51b5db8a914c7b13199d38",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Angelica[notfine]/lang/ru_RU.lang",
+    "sha256": "df3c5b7fa63ddbb1f546ad09105de0fe751c3a380025ca53ea48e422f0c0ebd6",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Applied Energistics 2[appliedenergistics2]/lang/ru_RU.lang",
+    "sha256": "64c805abfb4d802e7cff65cf6f9a49cf83f485e163f67ce379dedb842ce71259",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Automagy[automagy]/lang/ru_RU.lang",
+    "sha256": "4142c630c0b5f0abf4c69db9a73ad76655ee7e8457b8f63542027e3aa863eaac",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Avaritia[avaritia]/lang/ru_RU.lang",
+    "sha256": "57938f40587cf981f52d2bafeda5442602025f7ad347d3ce4e08a8f408093818",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/BetterCrashes[bettercrashes]/lang/ru_RU.lang",
+    "sha256": "14748ebd7e537f9957ef2c69b7fd671491ec2579bdb87764965162e9172844d1",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/BetterQuesting[betterquesting]/lang/ru_RU.lang",
+    "sha256": "c679ae530092ad540843bd9334f29c34b531b85e06fdf3fc172e77a701ac7277",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/BiblioCraft[bibliocraft]/lang/ru_RU.lang",
+    "sha256": "4206ea773e8bd1022cc44e02a166283bee515cfd39b0b323a33c59952c69bbdf",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/BiblioWoods Biomes O'Plenty Edition[bibliocraft]/lang/ru_RU.lang",
+    "sha256": "4206ea773e8bd1022cc44e02a166283bee515cfd39b0b323a33c59952c69bbdf",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/BiblioWoods Forestry Edition[bibliocraft]/lang/ru_RU.lang",
+    "sha256": "4206ea773e8bd1022cc44e02a166283bee515cfd39b0b323a33c59952c69bbdf",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/BiblioWoods Natura Edition[bibliocraft]/lang/ru_RU.lang",
+    "sha256": "4206ea773e8bd1022cc44e02a166283bee515cfd39b0b323a33c59952c69bbdf",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Binnie Core[extrabees]/lang/ru_RU.lang",
+    "sha256": "f3e6ee0d83076f4edfe479a27bd58284128e3e12a2a9b4a430a34bf64fb29e46",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Blood Arsenal[bloodarsenal]/lang/ru_RU.lang",
+    "sha256": "691ecb0daa7e07ee83ce9108508c27c43f736f92846c2fbdb415c850cf552785",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Blood Magic_ Alchemical Wizardry[alchemicalwizardry]/lang/ru_RU.lang",
+    "sha256": "789ef226a5736c4b821bf4354adcac82d94b197435efb8a2dac422250402495a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Botania[botania]/lang/ru_RU.lang",
+    "sha256": "b74b8d26fbbfb13d41ad99c20c9cda92a528927a526d6be099a2889a8457354e",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/BuildCraft[buildcraft]/lang/ru_RU.lang",
+    "sha256": "fca51ae521a01bef3a288252aa19c2fcd720250d766320c8406caee6d38b9bd9",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Chisel[chisel]/lang/ru_RU.lang",
+    "sha256": "67d24b7837728662d41a04230342ab80c8e1fa6bce55a430b43ba9bdf8402139",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/CoFH Core[cofh]/lang/ru_RU.lang",
+    "sha256": "9d9aabe9b972b8ecedee419ce0082093d53767ff39a00558f7ceaaaf8d5b9d70",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Compact Kinetic Wind and Water Generators[compactkineticgenerators]/lang/ru_RU.lang",
+    "sha256": "c3eaa943de1297731775b2ca61411713046662640e46b7c9057be56a07a3083c",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Controlling[controlling]/lang/ru_RU.lang",
+    "sha256": "1ca8bbd037eed725fc758ac58d23416521883271d677a17e4f856fe2c4157c79",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Cooking For Blockheads[cookingforblockheads]/lang/ru_RU.lang",
+    "sha256": "469ab9c01eb0d4a420418ce22e363a7de9a97614456ac3f01ebfc1b8611fc48a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/CosmeticArmorReworked[cosmeticarmorreworked]/lang/ru_RU.lang",
+    "sha256": "05a9d92c26502a964ae1d69b475917ddc224acb70c1c941404a1c506085151d0",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/CraftPresence[craftpresence]/lang/ru_RU.lang",
+    "sha256": "7401cab0ffa597324341292aedfb998d4a61f157821460f31b41a8b2467a762a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Crops NH[cropsnh]/lang/ru_RU.lang",
+    "sha256": "a409ae6648da7f5cc9a458959bf506848417f7f78e1ce5e1cc13f4f3b9ebc17d",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Electro-Magic Tools[emt]/lang/ru_RU.lang",
+    "sha256": "7576aa5f5a9ec7288d7dfef2b99f1539e2aeed5839beb8f0dcdf5f0bce3d7ef4",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Enhanced LootBags[enhancedlootbags]/lang/ru_RU.lang",
+    "sha256": "56117b8f9cc20d48201508b1c4f8fdff94174a17f91f100c15ee755bd048dadd",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Et Futurum Requiem[etfuturum]/lang/ru_RU.lang",
+    "sha256": "be5925bf346037338c589826924e890fb3fc85fa89872d36ab19863e72e37143",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Fether[fether]/lang/ru_RU.lang",
+    "sha256": "79d020e35aec2b9736e547bb5e6eb7f0ee61e5525faff09a1bd9190062128756",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Forbidden Magic[forbidden]/lang/ru_RU.lang",
+    "sha256": "483a5acd210adb15d1750353bd71218ae6880f109aace2d084275fd5c4e15d6b",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Forestry[forestry]/lang/ru_RU.lang",
+    "sha256": "5ca5fe8b81c0137a5b6553ca17c639948d5bd7253eae942c9dda7b30cfaf7f35",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/GTNH Credits[gtnhcredits]/lang/ru_RU.lang",
+    "sha256": "b2f1700159068aa52372973044b62779700190677a7603037fe78584ead24e52",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/GT_ New Horizons[dreamcraft]/lang/ru_RU.lang",
+    "sha256": "30e72ba622fc5434519614332c2dcad8ec1a7d18d31d9bfdde1fb49d013fd00c",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Galacticraft Core[galacticraftmars]/lang/ru_RU.lang",
+    "sha256": "7432ffd3eb0f7931cd6d568968eb066b6eb7ce3f5969026b54e3540503999897",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Gendustry[gendustry]/lang/ru_RU.lang",
+    "sha256": "3cea4ade0f1e67268a44fe492561dc96da8c96680b1191a9a751d4b9f3b10c9e",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/GregTech[bartworks]/lang/ru_RU.lang",
+    "sha256": "15dff588462a69182c78364c8473233234dcd7031125b36be10c8154e61b54dc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/GregTech[goodgenerator]/lang/ru_RU.lang",
+    "sha256": "3118dda5566ef66fb3a7197267e167023e889bfd2ca259f9ac56d920f258e01f",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/GregTech[gregtech]/lang/ru_RU.lang",
+    "sha256": "79683fea0c86202f5cc11e2ae599c8717b06ba1fcd656126c74d18d91c4c4455",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/GregTech[gtneioreplugin]/lang/ru_RU.lang",
+    "sha256": "735488bc2abdb30f13948f12ce10fcde24daddeaa677a367316646e5b01d889c",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/GregTech[gtnhlanth]/lang/ru_RU.lang",
+    "sha256": "c402f7d2e5abe55e6d31a6bd83d6a0c5557952f1a373e6760566790895d960f7",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/GregTech[kubatech]/lang/ru_RU.lang",
+    "sha256": "14c28ace1d9f8d554d88e34f64371f3b13a4cde20d2347a77f0634e22e699adc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/GregTech[miscutils]/lang/ru_RU.lang",
+    "sha256": "c1522035fc66e21c606ed19b39df0f34756897766e8c1a0f8a77266d0c1220ae",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/GregTech[tectech]/lang/ru_RU.lang",
+    "sha256": "35de685bc7d60e55674f03d8985829ccd7e519fa166b312318ca1cd917415224",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Gregory Tweaks For Crafting[craftingtweaks]/lang/ru_RU.lang",
+    "sha256": "b203e432ad30eebb1d85b92cd59abf5f681cb28b43c3521282180e8e22fcf7af",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/GuideNH[guidenh]/lang/ru_RU.lang",
+    "sha256": "69c14ab38a5e4b6cee4dd753c7661690636cd9d16d6fc27f1b168a42dffd4c61",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Hardcore Ender Expansion[hardcoreenderexpansion]/lang/ru_RU.lang",
+    "sha256": "624111fec765be609cab06c273f9200bc9ea9e21fe6b21369eadce349adccccc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Hodgepodge[hodgepodge]/lang/ru_RU.lang",
+    "sha256": "d117965cff5ccd64522cc9bfe203eb41a2909595092ab9d2abf5d8045564e1bf",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Inventory Bogo Sorter[bogosorter]/lang/ru_RU.lang",
+    "sha256": "5bfc9403e9318950b52f7faa5f5094166ab6cbb8c0b8b0d66c9c1c2e3e4cb7ce",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Iron Chests[ironchest]/lang/ru_RU.lang",
+    "sha256": "88dbc73b77e8aa106e234e5df246847cdb5d1a48d6a831a9f7d42c541cc6120a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/JourneyMap[journeymap]/lang/ru_RU.lang",
+    "sha256": "b53ed41189770cc8e77ac6a830d586e68571def7e8ae5a1feab82a83c4db1a71",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/LittleTiles[littletiles]/lang/ru_RU.lang",
+    "sha256": "9c301dcf533f3aaabc37a394c042457561fe484846f0a30149537d90aea39b0b",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Logistics Pipes[logisticspipes]/lang/ru_RU.lang",
+    "sha256": "b05959a2b882dbab3f5408e3fd46d57b8dafdd09d01eb1814618a4e880d18dbf",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Magic Bees[magicbees]/lang/ru_RU.lang",
+    "sha256": "5fd185b3c004fbf37eb5998ac12114928289d28668fb4acc64da3a5ed5296711",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Matter Manipulator[matter-manipulator]/lang/ru_RU.lang",
+    "sha256": "dc898ba05d46202ba251cd82ae203f81822a8b9197a5ec8be132e5fb206326a7",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/ModularUI[modularui]/lang/ru_RU.lang",
+    "sha256": "be07ad2f3c559e86763a48d984901134e784795f1041eb7fa4e7a460b89849b5",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/NEI Custom Diagram[neicustomdiagram]/lang/ru_RU.lang",
+    "sha256": "0ed83b2584587fb4b04f24fadea202ce10fd87105e79e6fe436bca3c3c175ddc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/NotEnoughItems[nei]/lang/ru_RU.lang",
+    "sha256": "7602a6964a21cbf45c86dd69b79f1915fe87c390fa23848bf1a865d2026998ad",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Open Modular Turrets[cofh]/lang/ru_RU.lang",
+    "sha256": "9d9aabe9b972b8ecedee419ce0082093d53767ff39a00558f7ceaaaf8d5b9d70",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Open Modular Turrets[openmodularturrets]/lang/ru_RU.lang",
+    "sha256": "0bbd78dab743796345fc3ab0c32c69632f74ff43c0d9ac5b94bfcbfdd7be299d",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/OpenComputers[opencomputers]/lang/ru_RU.lang",
+    "sha256": "a294efc5219ad73437747a39114dc1001e9cc58dc2bba514a12813bafca8a007",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/OpenPrinter[openprinter]/lang/ru_RU.lang",
+    "sha256": "377002cb2fed777bf73067a93c78f3a71cea408b12eedea3a88f0915596c220a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/PersonalSpace[personalspace]/lang/ru_RU.lang",
+    "sha256": "63b58b7dd306a1f02b4ab8032d4576cddebaeca88f8722ec8ed6d74ae092ca7e",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/ProjectRed Core[projectred]/lang/ru_RU.lang",
+    "sha256": "fd6952d0506be62fb53357b388e6798d30a71383bcdc28122a89496db1c0e69c",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Railcraft[railcraft]/lang/ru_RU.lang",
+    "sha256": "afb91f7398805b7d8cf8abf3836c51e7c8ee3c8c59a142de878b8d7c9d383872",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Salis Arcana[salisarcana]/lang/ru_RU.lang",
+    "sha256": "7d5050c67a8589fdea023622986d7fea03e420733d9463e2109532526ba68cad",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/ServerUtilities[serverutilities]/lang/ru_RU.lang",
+    "sha256": "8d7d1085c0c70f9ec944793467c9211e7e125d9d09777c7f1cfbd7c067d45c39",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Steve's Factory Manager[stevesfactory]/lang/ru_RU.lang",
+    "sha256": "f76b0bc2d95b242fbd8a9e796cfafc99ba528193e7648ad0db6c8f2b12daabea",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Storage Drawers[storagedrawers]/lang/ru_RU.lang",
+    "sha256": "299646f6f765d7df0ef64e5ed0dc71298acbd57ff7c81cd82fdd5791390d5e15",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/TC Node Tracker[tcnodetracker]/lang/ru_RU.lang",
+    "sha256": "9e5a57e901fad90aee4add064a2838a5e6817cd478c9836ba3db8b8897e2f05a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Thaumic Energistics[thaumicenergistics]/lang/ru_RU.lang",
+    "sha256": "190ee10669e6bcd8a17d3f1f1f2565f8ba5e825b823cc59046f64a78e7fcb7ca",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Thaumic Exploration[thaumicexploration]/lang/ru_RU.lang",
+    "sha256": "ea65fa94291299156f640e7b334f9b74be7fc95b67c8f653fc700c6dd4788ca1",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Thaumic Machina[thaumicmachina]/lang/ru_RU.lang",
+    "sha256": "807c7336e227ffd08787060c72a066bc7585b28eadc9b52482f47b4578ac5fcb",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Thaumic Tinkerer[ttinkerer]/lang/ru_RU.lang",
+    "sha256": "eadf11411bd6cc656f63634b40235843edbb0c53d69699a17df8f0736572feb3",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/The Twilight Forest[tinker]/lang/ru_RU.lang",
+    "sha256": "15e1a763af8ce21dad8bf3a487f2646fd24c6ce76eb38cf0bad27d16a28e4230",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Tinkers Defense[tinkersdefense]/lang/ru_RU.lang",
+    "sha256": "c1ae5b95ec987765fe8461e1053e1cd2034030c073002ee5f8e786a477e1e1bb",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Tinkers' Construct[tinker]/lang/ru_RU.lang",
+    "sha256": "15e1a763af8ce21dad8bf3a487f2646fd24c6ce76eb38cf0bad27d16a28e4230",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/VisualProspecting[visualprospecting]/lang/ru_RU.lang",
+    "sha256": "7afc9c11f6b8a72e317b3775d2345a273846c6ace1eb85fcd2dc0d5d390014fc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/WAILA Plugins[wailaplugins]/lang/ru_RU.lang",
+    "sha256": "f388bf9cf7c670d111909a740a0a46771e77bbf4df54ca128d6342886da24ea8",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Witchery++[WitcheryExtras]/lang/ru_RU.lang",
+    "sha256": "17e53e50c22bdf44fa9fc095cdf9231b08f96dec548321c1474b59a6aaeb0386",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Witchery[witchery]/lang/ru_RU.lang",
+    "sha256": "8c8c28aa5c13943a55545aa18d95bd27e23e63e7369d411bdc5f099a53421bbe",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Witching Gadgets[witchinggadgets]/lang/ru_RU.lang",
+    "sha256": "e5277c1108a28543a11df466268709ac4def87689d201e790fd98ac65d6911c1",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/Ztones[ztones]/lang/ru_RU.lang",
+    "sha256": "700f1da264fea9698d1012974344d3ea877138d05d867e09e9b532ae9a85d625",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/____gtnhoverridenames/lang/ru_RU.lang",
+    "sha256": "158008aa4634295d671779cc74f4220e8afadf39b69afcb3f99156de7c699be2",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/alchemicalwizardry/lang/ru_RU.lang",
+    "sha256": "789ef226a5736c4b821bf4354adcac82d94b197435efb8a2dac422250402495a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/angelica/lang/ru_RU.lang",
+    "sha256": "f89876a7204f34adffcbd55f16bd50efa3ec048c9f51b5db8a914c7b13199d38",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/appliedenergistics2/lang/ru_RU.lang",
+    "sha256": "64c805abfb4d802e7cff65cf6f9a49cf83f485e163f67ce379dedb842ce71259",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/automagy/lang/ru_RU.lang",
+    "sha256": "4142c630c0b5f0abf4c69db9a73ad76655ee7e8457b8f63542027e3aa863eaac",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/avaritia/lang/ru_RU.lang",
+    "sha256": "57938f40587cf981f52d2bafeda5442602025f7ad347d3ce4e08a8f408093818",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/bartworks/lang/ru_RU.lang",
+    "sha256": "15dff588462a69182c78364c8473233234dcd7031125b36be10c8154e61b54dc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/bettercrashes/lang/ru_RU.lang",
+    "sha256": "14748ebd7e537f9957ef2c69b7fd671491ec2579bdb87764965162e9172844d1",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/betterquesting/lang/ru_RU.lang",
+    "sha256": "bbae72f8ee2e46ac5c25e28a8df5098c313e80fa4901d0974e59d032d451261d",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/bibliocraft/lang/ru_RU.lang",
+    "sha256": "4206ea773e8bd1022cc44e02a166283bee515cfd39b0b323a33c59952c69bbdf",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/bloodarsenal/lang/ru_RU.lang",
+    "sha256": "691ecb0daa7e07ee83ce9108508c27c43f736f92846c2fbdb415c850cf552785",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/bogosorter/lang/ru_RU.lang",
+    "sha256": "5bfc9403e9318950b52f7faa5f5094166ab6cbb8c0b8b0d66c9c1c2e3e4cb7ce",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/botania/lang/ru_RU.lang",
+    "sha256": "b74b8d26fbbfb13d41ad99c20c9cda92a528927a526d6be099a2889a8457354e",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/botanichorizons/lang/ru_RU.lang",
+    "sha256": "3f908bbb931cb5c0b774fbff6ff9acbbf6b5a97797672ff0a313676a97d1b0fc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/botanichorizons[botanichorizons]/lang/ru_RU.lang",
+    "sha256": "3f908bbb931cb5c0b774fbff6ff9acbbf6b5a97797672ff0a313676a97d1b0fc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/buildcraft/lang/ru_RU.lang",
+    "sha256": "fca51ae521a01bef3a288252aa19c2fcd720250d766320c8406caee6d38b9bd9",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/chisel/lang/ru_RU.lang",
+    "sha256": "67d24b7837728662d41a04230342ab80c8e1fa6bce55a430b43ba9bdf8402139",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/cofh/lang/ru_RU.lang",
+    "sha256": "9d9aabe9b972b8ecedee419ce0082093d53767ff39a00558f7ceaaaf8d5b9d70",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/compactkineticgenerators/lang/ru_RU.lang",
+    "sha256": "c3eaa943de1297731775b2ca61411713046662640e46b7c9057be56a07a3083c",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/audio_cable.md",
+    "sha256": "47ec350eb7822e68f0a75098225bf29e955473f7ff0003167b04392c163fb8db",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/camera.md",
+    "sha256": "2be6c1bbeb9d37b7ecb47337d32d9157e151febf40675d651a24731a6513ca55",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/chatbox.md",
+    "sha256": "ebeea2ad2e64656e2b44d93f6628d9207e02e192e6bf9db4202bfa9773f6a414",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/cipher.md",
+    "sha256": "4c5443c3f087940dfe88cdd68c09458bb91b09caa9f63483cf917967c56dfbf9",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/cipher_advanced.md",
+    "sha256": "dfb3ed6e5df42c228ba0a77fc1fe2650b0881d8041f708506c6ea4adfa114c2d",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/colorful_lamp.md",
+    "sha256": "954340055b4cee7ede781593d3827086c69cd98c8f2c7030e7c035b1b9fae759",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/index.md",
+    "sha256": "a0793d94e59190a9e219246095228717ac93e12625c943e08ed7a97cfd610d19",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/iron_noteblock.md",
+    "sha256": "60ef63c97a15ae3b034aaca91e147cb2b36a64af8be4e640d99ba6f217ca61ea",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/radar.md",
+    "sha256": "354018a96a3df57cdad5af295fb36dff6518a9ca390fae9d8e9dfddd2a15c46f",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/railcraft/digital_controller_box.md",
+    "sha256": "082544fe40e2c61fcca9f0aa1773cd2acc9a3230c082c8d238d3949ef42e4d80",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/railcraft/digital_detector.md",
+    "sha256": "5abb4c17946d6e2b601d8b02e1d4cd0410feb1764270e1e3d5d844fc86b30add",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/railcraft/digital_receiver_box.md",
+    "sha256": "a4aa7f8481a4494315983fc988dbfee026b66e507dd34b44d1c5c63f3c81df50",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/railcraft/locomotive_relay.md",
+    "sha256": "8af0adaff19fd8b1d123017988b2ae4ae2c78fe6c07795390ffb8bdf2f309506",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/railcraft/ticket_machine.md",
+    "sha256": "54e230f42a89aa50d01bf4993cea476aba9a9b3c3af7f9062cd67be49785aa9a",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/speaker.md",
+    "sha256": "bc12fee1e51ff8bc2b792731be8054ef47f226447c2ceab1e5a3eece7d8f9ac2",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/speech_box.md",
+    "sha256": "0dc7503ac4b956f1e72b74a0ae592f7d4e5ad189a940c7de35409c0dcf7a8df6",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/block/tape_drive.md",
+    "sha256": "170bc1d7b4ee8a567a8737700dee1222f533d2faa166489117c3591d95a7982e",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/beep_card.md",
+    "sha256": "d4ae00f6221611292123d930e84e6334480eb9ba37f4cc965d4c97777fc1e410",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/buildcraft/docking_upgrade.md",
+    "sha256": "86ac7dad118bad563a7007d0d3891d26f2eb0845b65132072456003295d6a20f",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/buildcraft/drone_station.md",
+    "sha256": "33a7ba6cae8bc621d1a6f435adbb0bd1fe380a6a32e0e66c5dcadae2298bad54",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/camera_upgrade.md",
+    "sha256": "85cda75c386b8ad7991b7b09751a55b1e5b552fb85dca6edd2a249d7be30783d",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/chat_upgrade.md",
+    "sha256": "febb7e7588996dc0ea9401cadae61e62de2ba021edceb507ac761f3c287bef75",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/colorful_upgrade.md",
+    "sha256": "2bff6f3e0bf4c80a9c5bfee8161c7c65038e1f497ab622b6e10e3dc3bd6eb79a",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/index.md",
+    "sha256": "ba8216e96f11963bd7361ee95142630f936d48140cb15c2f58f045fae11183ff",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/light_board.md",
+    "sha256": "e554b8893e301da3d7f183cb5bc042f93caf564de38c8180d602427a3c674f12",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/magical_memory.md",
+    "sha256": "768e99a8c5dad460fcf4b29c4dbfde6dc3ff9079194d697e43a7b4500f419716",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/noise_card.md",
+    "sha256": "34cb1a9e70fd53ea451b50b70aed2be6cf1d9eb11163d2f88f4821f0463513de",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/particle_card.md",
+    "sha256": "6d2cfbf8002f44917e03620d6597827b77fcdb9c4a07db5027d1d2975c8b1528",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/portable_tape_drive.md",
+    "sha256": "417024a9c9b3dd4969576942dbd02a03ee7d1459dcc0d88b260d22a02b3807f6",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/rack_capacitor.md",
+    "sha256": "9b646a0cd8f0d0377db648e5eb9d8d1cf24befd7eef1d1353edcb982e718dc35",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/radar_upgrade.md",
+    "sha256": "b7af7c23ebae553e7848f2dc2d57477d5fde8fd40de8acc92b9fe0d986afa68d",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/railcraft/relay_sensor.md",
+    "sha256": "dcbba44bf9ea713a2740fc7ae0323f70e686ae2afcb1ea2fdfcff521bb821264",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/self_destructing_card.md",
+    "sha256": "82ef13870d42824cea9ca3578ab33710cb669b41779925d9424b5913f2c1255b",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/server_self_destructor.md",
+    "sha256": "2f4b1228d45d4f459441fa4b2b82a23cf6e7c304d90a1a494f1907292251b1d9",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/sound_card.md",
+    "sha256": "9e986dcab3aa8f86567ae4f07be8a0fff02f0a23750a00d8cf1eaf705f6025a1",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/speech_upgrade.md",
+    "sha256": "9d94ef665decd3a0c11b6470423db1d02c37a8afd24ec145078a254dedd86922",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/spoofing_card.md",
+    "sha256": "56f131c2e34efb7133997edd783e993c4e8949cdf48654233f750a610c8d0f60",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/switch_board.md",
+    "sha256": "140335ac01c1f12143febd62a04ddb127fda9a7879b65185459b8610cbd7dbf2",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/opencomputers/computronics/ru_RU/item/tape.md",
+    "sha256": "d4817e248d77216df2fa1f8cbd11b8dc4e98fe5595d3d4e94902366dafde342a",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/tis3d/computronics/ru_RU/item/colorful_module.md",
+    "sha256": "754ceaad86faa430eded627eb936675a7371bedb7a579842daf75e34223b2550",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/tis3d/computronics/ru_RU/item/index.md",
+    "sha256": "94142816a6c14464bc6ea51ca5020f68eb5812ffbc124089a85689b1c3d7d141",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/tis3d/computronics/ru_RU/item/self_destructing_module.md",
+    "sha256": "e923ad1031c09de1e857398da66a011534e20adbf4024b9141a9bd93fa737bd9",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/tis3d/computronics/ru_RU/item/tape_reader_module.md",
+    "sha256": "1ce903c7239015755da836d287fc7a404884be02b7d6028b36bb56bc76416e6d",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/computronics/doc/tis3d/ru_RU/protocols/computronics/flamingo.md",
+    "sha256": "7a2e72b53adc3074368b95f8a21623c36e2a8332bb4c10fbdda6fe1e64ee88f8",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/controlling/lang/ru_RU.lang",
+    "sha256": "1ca8bbd037eed725fc758ac58d23416521883271d677a17e4f856fe2c4157c79",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/cookingforblockheads/lang/ru_RU.lang",
+    "sha256": "469ab9c01eb0d4a420418ce22e363a7de9a97614456ac3f01ebfc1b8611fc48a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/cosmeticarmorreworked/lang/ru_RU.lang",
+    "sha256": "05a9d92c26502a964ae1d69b475917ddc224acb70c1c941404a1c506085151d0",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/craftingtweaks/lang/ru_RU.lang",
+    "sha256": "b203e432ad30eebb1d85b92cd59abf5f681cb28b43c3521282180e8e22fcf7af",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/craftpresence/lang/ru_RU.lang",
+    "sha256": "7401cab0ffa597324341292aedfb998d4a61f157821460f31b41a8b2467a762a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/craftpresence/lang/ru_ru.json",
+    "sha256": "e4712a5b717c14cab3336723c9bec6539acedfcb0030ced60ee516b0f7d61a6a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/cropsnh/lang/ru_RU.lang",
+    "sha256": "a409ae6648da7f5cc9a458959bf506848417f7f78e1ce5e1cc13f4f3b9ebc17d",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/dreamcraft/lang/ru_RU.lang",
+    "sha256": "30e72ba622fc5434519614332c2dcad8ec1a7d18d31d9bfdde1fb49d013fd00c",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/emt/lang/ru_RU.lang",
+    "sha256": "7576aa5f5a9ec7288d7dfef2b99f1539e2aeed5839beb8f0dcdf5f0bce3d7ef4",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/enhancedlootbags/lang/ru_RU.lang",
+    "sha256": "56117b8f9cc20d48201508b1c4f8fdff94174a17f91f100c15ee755bd048dadd",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/etfuturum/lang/ru_RU.lang",
+    "sha256": "be5925bf346037338c589826924e890fb3fc85fa89872d36ab19863e72e37143",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/extrabees/lang/ru_RU.lang",
+    "sha256": "f3e6ee0d83076f4edfe479a27bd58284128e3e12a2a9b4a430a34bf64fb29e46",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/fether/lang/ru_RU.lang",
+    "sha256": "79d020e35aec2b9736e547bb5e6eb7f0ee61e5525faff09a1bd9190062128756",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/forbidden/lang/ru_RU.lang",
+    "sha256": "483a5acd210adb15d1750353bd71218ae6880f109aace2d084275fd5c4e15d6b",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/forestry/lang/ru_RU.lang",
+    "sha256": "5ca5fe8b81c0137a5b6553ca17c639948d5bd7253eae942c9dda7b30cfaf7f35",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/galacticraftmars/lang/ru_RU.lang",
+    "sha256": "7432ffd3eb0f7931cd6d568968eb066b6eb7ce3f5969026b54e3540503999897",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/gendustry/lang/ru_RU.lang",
+    "sha256": "3cea4ade0f1e67268a44fe492561dc96da8c96680b1191a9a751d4b9f3b10c9e",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/goodgenerator/lang/ru_RU.lang",
+    "sha256": "3118dda5566ef66fb3a7197267e167023e889bfd2ca259f9ac56d920f258e01f",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/gregtech/lang/ru_RU.lang",
+    "sha256": "79683fea0c86202f5cc11e2ae599c8717b06ba1fcd656126c74d18d91c4c4455",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/gregtech/lang/ru_RU/tooltip/condensate-detector-hatch.md",
+    "sha256": "6502a5a60eba0859fd093f2dc3ff4ed59c1c325a0c350f721255e53985850109",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/gregtech/lang/ru_RU/tooltip/io-node-controller-hatch.md",
+    "sha256": "d3cf84fb386ce32a81f2e2a5974f03424b0ca31602bb16c83813f5fc565ec26e",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/gregtech/lang/ru_RU/tooltip/nanite-detector-hatch.md",
+    "sha256": "a66ef24107feb4f7510347291860cb7f9a4b68b2ecb13b5aca734c3f03def893",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/gtneioreplugin/lang/ru_RU.lang",
+    "sha256": "735488bc2abdb30f13948f12ce10fcde24daddeaa677a367316646e5b01d889c",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/gtnhcredits/lang/ru_RU.lang",
+    "sha256": "b2f1700159068aa52372973044b62779700190677a7603037fe78584ead24e52",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/gtnhlanth/lang/ru_RU.lang",
+    "sha256": "c402f7d2e5abe55e6d31a6bd83d6a0c5557952f1a373e6760566790895d960f7",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/guidenh/lang/ru_RU.lang",
+    "sha256": "69c14ab38a5e4b6cee4dd753c7661690636cd9d16d6fc27f1b168a42dffd4c61",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/hardcoreenderexpansion/lang/ru_RU.lang",
+    "sha256": "624111fec765be609cab06c273f9200bc9ea9e21fe6b21369eadce349adccccc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/hodgepodge/lang/ru_RU.lang",
+    "sha256": "d117965cff5ccd64522cc9bfe203eb41a2909595092ab9d2abf5d8045564e1bf",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/ironchest/lang/ru_RU.lang",
+    "sha256": "88dbc73b77e8aa106e234e5df246847cdb5d1a48d6a831a9f7d42c541cc6120a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/journeymap/lang/ru_RU.lang",
+    "sha256": "b53ed41189770cc8e77ac6a830d586e68571def7e8ae5a1feab82a83c4db1a71",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/kubatech/lang/ru_RU.lang",
+    "sha256": "14c28ace1d9f8d554d88e34f64371f3b13a4cde20d2347a77f0634e22e699adc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/littletiles/lang/ru_RU.lang",
+    "sha256": "9c301dcf533f3aaabc37a394c042457561fe484846f0a30149537d90aea39b0b",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/logisticspipes/lang/ru_RU.lang",
+    "sha256": "b05959a2b882dbab3f5408e3fd46d57b8dafdd09d01eb1814618a4e880d18dbf",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/magicbees/lang/ru_RU.lang",
+    "sha256": "5fd185b3c004fbf37eb5998ac12114928289d28668fb4acc64da3a5ed5296711",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/matter-manipulator/lang/ru_RU.lang",
+    "sha256": "dc898ba05d46202ba251cd82ae203f81822a8b9197a5ec8be132e5fb206326a7",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/minecraft/lang/ru_RU.lang",
+    "sha256": "6e6629c5ea13f1ee01bcfa7bffaa4c430a67e87b950cecc59bcec72af5427f9c",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/miscutils/lang/ru_RU.lang",
+    "sha256": "c1522035fc66e21c606ed19b39df0f34756897766e8c1a0f8a77266d0c1220ae",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/modularui/lang/ru_RU.lang",
+    "sha256": "be07ad2f3c559e86763a48d984901134e784795f1041eb7fa4e7a460b89849b5",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/nei/lang/ru_RU.lang",
+    "sha256": "7602a6964a21cbf45c86dd69b79f1915fe87c390fa23848bf1a865d2026998ad",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/neicustomdiagram/lang/ru_RU.lang",
+    "sha256": "0ed83b2584587fb4b04f24fadea202ce10fd87105e79e6fe436bca3c3c175ddc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/notfine/lang/ru_RU.lang",
+    "sha256": "df3c5b7fa63ddbb1f546ad09105de0fe751c3a380025ca53ea48e422f0c0ebd6",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/opencomputers/doc/ru_RU/block/assembler.md",
+    "sha256": "15278bd752fb49a5ee347f44cf23aa9f58bd3bf9cee026808959dadfe63fe00c",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/opencomputers/doc/ru_RU/item/apu1.md",
+    "sha256": "864dd7200374364a9abd25fd0d7c3d660655a4c470c39ad313454ad285b0c9d7",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/opencomputers/doc/ru_RU/item/beekeeperUpgrade.md",
+    "sha256": "aa53803b2e8f8718155287dc32d52698984baf4343bbabfd023ef7063f77aad7",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/opencomputers/doc/ru_RU/item/databaseUpgrade1.md",
+    "sha256": "2bbea2ff87b029c53f68a99c5cd3b2c42166fd4ea6b23d98db24f79274a4fae1",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/opencomputers/doc/ru_RU/item/me_upgrade1.md",
+    "sha256": "4e711f4781eaac0cbd840566f3d22792970c9fc0e6a906fecc70039fae994874",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/opencomputers/doc/ru_RU/item/me_upgrade2.md",
+    "sha256": "51b1b4fcf363a1261b0aca1a67f563c1aa90d1b265d9b88fde42b51c1d58ec17",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/opencomputers/doc/ru_RU/item/me_upgrade3.md",
+    "sha256": "0f2e6569d6cd41e604aad2d36f4c086e18e670fd4f29eb785594c5c970abd2a2",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/opencomputers/doc/ru_RU/item/ram1.md",
+    "sha256": "bba4756bfab78903c26116c2fb7c6bd3357fb42270f050ab6fc232f614cb0070",
+    "encoding": "UTF-8",
+    "type": "documentation"
+  },
+  {
+    "path": "config/txloader/forceload/opencomputers/lang/ru_RU.lang",
+    "sha256": "a294efc5219ad73437747a39114dc1001e9cc58dc2bba514a12813bafca8a007",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/openmodularturrets/lang/ru_RU.lang",
+    "sha256": "0bbd78dab743796345fc3ab0c32c69632f74ff43c0d9ac5b94bfcbfdd7be299d",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/openprinter/lang/ru_RU.lang",
+    "sha256": "377002cb2fed777bf73067a93c78f3a71cea408b12eedea3a88f0915596c220a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/personalspace/lang/ru_RU.lang",
+    "sha256": "63b58b7dd306a1f02b4ab8032d4576cddebaeca88f8722ec8ed6d74ae092ca7e",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/projectred/lang/ru_RU.lang",
+    "sha256": "fd6952d0506be62fb53357b388e6798d30a71383bcdc28122a89496db1c0e69c",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/railcraft/lang/ru_RU.lang",
+    "sha256": "afb91f7398805b7d8cf8abf3836c51e7c8ee3c8c59a142de878b8d7c9d383872",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/salisarcana/lang/ru_RU.lang",
+    "sha256": "7d5050c67a8589fdea023622986d7fea03e420733d9463e2109532526ba68cad",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/serverutilities/lang/ru_RU.lang",
+    "sha256": "8d7d1085c0c70f9ec944793467c9211e7e125d9d09777c7f1cfbd7c067d45c39",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/stevesfactory/lang/ru_RU.lang",
+    "sha256": "f76b0bc2d95b242fbd8a9e796cfafc99ba528193e7648ad0db6c8f2b12daabea",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/storagedrawers/lang/ru_RU.lang",
+    "sha256": "299646f6f765d7df0ef64e5ed0dc71298acbd57ff7c81cd82fdd5791390d5e15",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/tcnodetracker/lang/ru_RU.lang",
+    "sha256": "9e5a57e901fad90aee4add064a2838a5e6817cd478c9836ba3db8b8897e2f05a",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/tectech/lang/ru_RU.lang",
+    "sha256": "35de685bc7d60e55674f03d8985829ccd7e519fa166b312318ca1cd917415224",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/thaumicenergistics/lang/ru_RU.lang",
+    "sha256": "190ee10669e6bcd8a17d3f1f1f2565f8ba5e825b823cc59046f64a78e7fcb7ca",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/thaumicexploration/lang/ru_RU.lang",
+    "sha256": "ea65fa94291299156f640e7b334f9b74be7fc95b67c8f653fc700c6dd4788ca1",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/thaumicmachina/lang/ru_RU.lang",
+    "sha256": "807c7336e227ffd08787060c72a066bc7585b28eadc9b52482f47b4578ac5fcb",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/tinker/lang/ru_RU.lang",
+    "sha256": "15e1a763af8ce21dad8bf3a487f2646fd24c6ce76eb38cf0bad27d16a28e4230",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/tinkersdefense/lang/ru_RU.lang",
+    "sha256": "c1ae5b95ec987765fe8461e1053e1cd2034030c073002ee5f8e786a477e1e1bb",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/ttinkerer/lang/ru_RU.lang",
+    "sha256": "eadf11411bd6cc656f63634b40235843edbb0c53d69699a17df8f0736572feb3",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/visualprospecting/lang/ru_RU.lang",
+    "sha256": "7afc9c11f6b8a72e317b3775d2345a273846c6ace1eb85fcd2dc0d5d390014fc",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/wailaplugins/lang/ru_RU.lang",
+    "sha256": "f388bf9cf7c670d111909a740a0a46771e77bbf4df54ca128d6342886da24ea8",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/witchery/lang/ru_RU.lang",
+    "sha256": "8c8c28aa5c13943a55545aa18d95bd27e23e63e7369d411bdc5f099a53421bbe",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/witcheryextras/lang/ru_RU.lang",
+    "sha256": "17e53e50c22bdf44fa9fc095cdf9231b08f96dec548321c1474b59a6aaeb0386",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/witchinggadgets/lang/ru_RU.lang",
+    "sha256": "e5277c1108a28543a11df466268709ac4def87689d201e790fd98ac65d6911c1",
+    "encoding": "UTF-8",
+    "type": "localization"
+  },
+  {
+    "path": "config/txloader/forceload/ztones/lang/ru_RU.lang",
+    "sha256": "700f1da264fea9698d1012974344d3ea877138d05d867e09e9b532ae9a85d625",
+    "encoding": "UTF-8",
+    "type": "localization"
+  }
+]

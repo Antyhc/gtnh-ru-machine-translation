@@ -1,0 +1,20 @@
+# Sources and license notices
+
+This is an unofficial Russian localization supplement. New translations and corrections are machine-generated. Existing translations were reused and preserved where appropriate; they are not claimed as new authorship.
+
+- GT New Horizons and its mod authors provided the original English resources and bundled Russian translations. Existing author credits and technical resource names inside those files are retained.
+- The GTNH Russian translation community provided translations distributed in GTNH 2.8.4 and the GTNH-Translations repository. The [Russian ParaTranz project, 9929](https://paratranz.cn/projects/9929), identifies its translation text license as [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Community text and adaptations of that text remain under those terms, including attribution, noncommercial use and share alike.
+- Additional source-matched translations were obtained from [https://github.com/GTNewHorizons/GTNH-Translations](https://github.com/GTNewHorizons/GTNH-Translations), revision `abdf0f4006767bdc494f5467809bb695dfe4fba8`, including its Russian daily release dated 2026-09-12+455. That repository's separate GPL version 3 license is retained as `LICENSE-GPL-3.0.txt`, copied unmodified from the pinned revision. This repository-level/tooling license is not a claim that all copied Russian translation text is GPL-only.
+- New localization additions and corrections are made available under CC BY-NC-SA 4.0 to the extent applicable rights exist. The complete official license text is supplied as `LICENSE`, copied from Creative Commons. The editable `.lang`, `.json` and `.md` files and review data are included. Original works and reused portions retain their applicable author and license notices; this notice does not claim to relicense independently licensed mods or grant rights to their binaries, trademarks or other assets.
+- Changes are described in `MODS.md`, `review/changes.json` and `review/documents.json`. Original authors are credited through preserved file credits and links to the community source above. No endorsement by the original authors is implied.
+
+Source and reference links:
+
+- [GTNH-Translations pinned source](https://github.com/GTNewHorizons/GTNH-Translations/tree/abdf0f4006767bdc494f5467809bb695dfe4fba8)
+- [Original license](https://github.com/GTNewHorizons/GTNH-Translations/blob/abdf0f4006767bdc494f5467809bb695dfe4fba8/LICENSE)
+- [Russian translation project](https://paratranz.cn/projects/9929)
+- [CC BY-NC-SA 4.0 legal code](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.txt)
+- [GTNH translation contribution instructions](https://github.com/GTNewHorizons/GTNH-Translations#for-translators)
+- [GT New Horizons](https://github.com/GTNewHorizons)
+
+No mod binaries, worlds, account data, local audit logs or personal author attribution are included in this package. The GTNH name identifies compatibility and does not imply project endorsement.
